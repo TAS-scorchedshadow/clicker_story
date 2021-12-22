@@ -14,7 +14,7 @@
   ],
   "layers": [
     {"assets":[
-        {"x":343.5016,"y":24.0,"spriteId":{"name":"spr_title","path":"sprites/spr_title/spr_title.yy",},"ignore":false,"headPosition":0.0,"rotation":0.0,"scaleX":0.374357045,"scaleY":0.374357074,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"inheritItemSettings":false,"resourceVersion":"1.0","name":"graphic_216461B8","tags":[],"resourceType":"GMRSpriteGraphic",},
+        {"spriteId":{"name":"spr_title","path":"sprites/spr_title/spr_title.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":0.374357045,"scaleY":0.374357074,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":343.5016,"y":24.0,"resourceVersion":"1.0","name":"graphic_216461B8","tags":[],"resourceType":"GMRSpriteGraphic",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Assets_1","tags":[],"resourceType":"GMRAssetLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_reset","path":"objects/obj_reset/obj_reset.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.4080644,"scaleY":0.4080644,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":123.056419,"y":1040.17407,"resourceVersion":"1.0","name":"inst_BA222B3","tags":[],"resourceType":"GMRInstance",},
