@@ -1,0 +1,25 @@
+sprite orders should be in the following order:
+death, hit, jump, move, skill, stand (idle)
+jump and move aren't really required unless you want the enemies to walk around a little
+
+ALSO GODDAMN IT I HAVE TO FIX THE ALIGNMENT OF SHIT, GAHHHHHHHH
+
+spr_orangeMushroom
+ 0 -  2: death
+      3: hit
+      4: jump
+ 5 -  7: move
+ 8 -  9: stand
+
+spr_greenMushroom, spr_hornyMushroom
+ 0 -  3: death
+      4: hit
+ 5 -  8: move
+ 9 - 11: stand
+ 
+spr_mano
+ 0 -  8: death
+      9: hit
+10 - 15: move
+16 - 25: skill
+26 - 34: stand
