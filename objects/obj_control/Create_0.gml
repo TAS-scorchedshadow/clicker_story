@@ -35,7 +35,7 @@ else
 				item_sprite: spr_weapon,
 			},
 		},
-		money : 10000,
+		money : 100000000,
 	}
 }
 global.damage = playerStats.equipment.top.stat + playerStats.equipment.hat.stat +  playerStats.equipment.weapon.stat
@@ -50,7 +50,6 @@ global.upgradeChance = [[95, 5, 0], [90, 10, 0], [85, 15, 0], [80, 20, 0], [75, 
 //enemy variables
 global.hp = 5
 global.enemyType=0
-global.money = 0
 global.damage = 1
 global.enemyExists=true
 

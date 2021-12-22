@@ -1,23 +1,7 @@
 /// @DO things when item changes
 if itemChange == true {
 	itemChange = false
-	show_debug_message("item is now " + item)
-	switch (item)
-	{
-		case "weapon":
-			stats = obj_control.playerStats.equipment.weapon
-			show_debug_message(obj_control.playerStats.equipment.weapon.item_level)
-			show_debug_message("is weapon now")
-		break;
-		case "hat":
-			stats = obj_control.playerStats.equipment.hat
-			show_debug_message("bruh1")
-		break;
-		case "top":
-			stats = obj_control.playerStats.equipment.top
-			show_debug_message("bruh2")
-		break;
-	}
+	scr_get_item_stats(item)
 	object_set_sprite(obj_starforceItem, stats.item_sprite)
 	if !instance_exists(obj_starforceItem)
 	{
@@ -28,7 +12,42 @@ if itemChange == true {
 		itemSprite = obj_starforceItem	
 	}
 	itemSprite.image_speed = 0
-	show_debug_message(stats)
-	show_debug_message(obj_control.playerStats.equipment.weapon.item_level)
 	itemSprite.image_index = stats.item_level
+}
+
+
+if upgrade == true and stats.stars < maxStars[stats.item_level] and itemChange = false{
+	var pickRandNum = random_range(0, 100)
+	if global.money >= global.upgradeCosts[stats.stars]
+	{
+		global.money -= global.upgradeCosts[stats.stars]
+		if pickRandNum > 0
+		{
+			if pickRandNum < global.upgradeChance[stats.stars][2]
+				{
+					show_debug_message("BOOM")	
+					stats.stars = 0
+				}
+			else
+			{
+				if pickRandNum < global.upgradeChance[stats.stars][2] + global.upgradeChance[stats.stars][1]
+				{
+					show_debug_message("FAIL")
+					if stats.stars > 10 and stats.stars != 15
+					{
+						stats.stars -= 1
+					}
+				}
+				else
+				{
+					show_debug_message("SUCCESS")
+					stats.stars += 1
+					show_debug_message(obj_control.playerStats.equipment.weapon.stars)
+				
+				}
+			}
+		}
+	}
+	upgrade = false
+	itemChange = true
 }
