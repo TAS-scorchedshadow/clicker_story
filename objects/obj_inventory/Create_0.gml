@@ -1,0 +1,1 @@
+global.item = 5
