@@ -1,6 +1,6 @@
 /// @description Random Jumping Sim
 cool=1
-if global.hp=0{
+if global.hp<=global.damage{
 	cool=2.5}
 	
 

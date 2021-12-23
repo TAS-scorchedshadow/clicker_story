@@ -5,3 +5,4 @@ function scr_setPosition(_x,_y){
 	x=_x
 	y=_y
 }
+

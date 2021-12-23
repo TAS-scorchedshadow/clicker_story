@@ -9,7 +9,7 @@ if (global.hp!=oldhp){
 	_x=image_xscale
 	_y=image_yscale
 	repeat (10)
-	{instance_create_depth(x+random_range(32*_x,-32*_x),y+random_range(32*_y,-32*_y),-20000,obj_particles)}
+	{instance_create_depth(x+random_range(32*_x,-32*_x),y+random_range(-64*_y,0),-20000,obj_particles)}
 	if global.hp =0{
 		state=enemy_state.dead
 		
@@ -17,60 +17,38 @@ if (global.hp!=oldhp){
 	}
 	else{
 		//alarm to set state back to idle
-		alarm[0]=5 //SET ALARM TIME TO BE EQUAL TO LENGTH OF HURT ANIM
+		alarm[0]=image_number*4 //SET ALARM TIME TO BE EQUAL TO LENGTH OF HURT ANIM
 		state=enemy_state.damaged
 	}
 }
 
 oldhp=global.hp
 
-//set enemy tyoe
-
-
+//set enemy type. This goes on for a while
 
 switch state{
 	
 	case enemy_state.idle:
-	switch type{
-		case "redShroom":
-		sprite_index=spr_redShroom_idle; break;
-		case "blueShroom":
-		sprite_index=spr_blueShroom_idle; break;
-	} break;
+	scr_enemyIdleSpriteGet(type);break;
 	
 	case enemy_state.dead:
 	image_speed=0.5
-	alarm[1] = 2
-	switch type{
-		case "redShroom":
-		sprite_index=spr_redShroom_damaged; break;
-		case "blueShroom":
-		sprite_index=spr_blueShroom_damaged; break;
-	}
+	alarm[1] = 1
+	scr_enemyDeadSpriteGet(type)
 	global.enemyExists=false
 	image_alpha-=fadeSpeed;
-	if image_alpha <0
-	{instance_destroy()
-	} break;
-	
+	if image_alpha <0{
+		instance_destroy()}
+	if (image_index=image_number){
+		image_speed=0} break;
+		
 	case enemy_state.damaged:
-	switch type{
-		case "redShroom":
-		sprite_index=spr_redShroom_damaged; 
-		break;
-		case "blueShroom":
-		sprite_index=spr_blueShroom_damaged; 
-		break;
-	}
-}
-
-if global.hp=0{
-	
+	scr_enemyDamagedGet(type); break;
 }
 
 //shaking
 
-if canShake=true{
+if (canShake=true) {
 	scr_setPosition(ix+shake,iy)
 	shake=shake*-0.9
 	if (round(x)==round(ix)){

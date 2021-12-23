@@ -3,7 +3,7 @@
 vx = random_range(-3,3)
 vy = random_range(1,7)
 g=random_range(0.1,0.7)
-size = random_range(0.7,3)
+size = random_range(0.5,1.5)
 type = floor(random_range(0,1.9999))
 vfade = random_range(0.3,0.1)
 fadeMe=false

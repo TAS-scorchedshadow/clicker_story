@@ -54,7 +54,7 @@ global.damage = 1
 global.enemyExists=true
 
 
-enemy=instance_create_depth(995,400,-1,obj_enemy)
+enemy=instance_create_depth(1100,500,-1,obj_enemy)
 
 enum enemy_state{
 	idle,
