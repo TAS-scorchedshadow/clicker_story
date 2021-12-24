@@ -7,7 +7,7 @@ switch type{
 		_money=enemyTypes.mobs.orangeMushroom.money;
 		break;
 		case "greenMushroom":
-		_money=enemyTypes.mobs.greenMushr.money; 
+		_money=enemyTypes.mobs.greenMushroom.money; 
 		break;
 		case "hornyMushroom":
 		_money=enemyTypes.mobs.hornyMushroom.money; 

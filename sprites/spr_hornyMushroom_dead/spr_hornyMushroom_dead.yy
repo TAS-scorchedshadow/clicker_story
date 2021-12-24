@@ -9,7 +9,7 @@
   "swfPrecision": 2.525,
   "bbox_left": 3,
   "bbox_right": 59,
-  "bbox_top": 13,
+  "bbox_top": 7,
   "bbox_bottom": 63,
   "HTile": false,
   "VTile": false,
@@ -24,6 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
+    {"compositeImage":{"FrameId":{"name":"e53c1fb0-83dc-42f8-a6d9-fc5105649c43","path":"sprites/spr_hornyMushroom_dead/spr_hornyMushroom_dead.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"e53c1fb0-83dc-42f8-a6d9-fc5105649c43","path":"sprites/spr_hornyMushroom_dead/spr_hornyMushroom_dead.yy",},"LayerId":{"name":"f9c7afff-3d98-4974-9b7e-05777d91d4ed","path":"sprites/spr_hornyMushroom_dead/spr_hornyMushroom_dead.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_hornyMushroom_dead","path":"sprites/spr_hornyMushroom_dead/spr_hornyMushroom_dead.yy",},"resourceVersion":"1.0","name":"e53c1fb0-83dc-42f8-a6d9-fc5105649c43","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"8cf99fd7-c080-4bc4-95a8-078d984d4e79","path":"sprites/spr_hornyMushroom_dead/spr_hornyMushroom_dead.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"8cf99fd7-c080-4bc4-95a8-078d984d4e79","path":"sprites/spr_hornyMushroom_dead/spr_hornyMushroom_dead.yy",},"LayerId":{"name":"f9c7afff-3d98-4974-9b7e-05777d91d4ed","path":"sprites/spr_hornyMushroom_dead/spr_hornyMushroom_dead.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_hornyMushroom_dead","path":"sprites/spr_hornyMushroom_dead/spr_hornyMushroom_dead.yy",},"resourceVersion":"1.0","name":"8cf99fd7-c080-4bc4-95a8-078d984d4e79","tags":[],"resourceType":"GMSpriteFrame",},
     {"compositeImage":{"FrameId":{"name":"ee38e7c2-1135-4666-a861-eb7e6828d3b4","path":"sprites/spr_hornyMushroom_dead/spr_hornyMushroom_dead.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"ee38e7c2-1135-4666-a861-eb7e6828d3b4","path":"sprites/spr_hornyMushroom_dead/spr_hornyMushroom_dead.yy",},"LayerId":{"name":"f9c7afff-3d98-4974-9b7e-05777d91d4ed","path":"sprites/spr_hornyMushroom_dead/spr_hornyMushroom_dead.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"spr_hornyMushroom_dead","path":"sprites/spr_hornyMushroom_dead/spr_hornyMushroom_dead.yy",},"resourceVersion":"1.0","name":"ee38e7c2-1135-4666-a861-eb7e6828d3b4","tags":[],"resourceType":"GMSpriteFrame",},
@@ -45,15 +51,17 @@
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
-    "length": 4.0,
+    "length": 6.0,
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"7ddafc20-014c-422e-b0a4-bb84094c3f3f","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ee38e7c2-1135-4666-a861-eb7e6828d3b4","path":"sprites/spr_hornyMushroom_dead/spr_hornyMushroom_dead.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"9f3c14c9-4706-4d38-a888-abfe22667e0b","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"80ad42c3-92e8-4036-a282-5a7e1624b729","path":"sprites/spr_hornyMushroom_dead/spr_hornyMushroom_dead.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"b19f1d4d-30bc-416e-bb0d-f1b29e12e738","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0b47c902-236d-4d46-8c62-6db23155dea8","path":"sprites/spr_hornyMushroom_dead/spr_hornyMushroom_dead.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"7d0b5b80-c86a-4272-9a2d-4be0738b4381","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"fd61724d-6dfa-46d1-904b-99d5b3482856","path":"sprites/spr_hornyMushroom_dead/spr_hornyMushroom_dead.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"5cccb2fe-0a55-476e-9194-d6110d530848","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e53c1fb0-83dc-42f8-a6d9-fc5105649c43","path":"sprites/spr_hornyMushroom_dead/spr_hornyMushroom_dead.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"76e6d0e1-8fdb-4e59-9233-82127bbd2298","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8cf99fd7-c080-4bc4-95a8-078d984d4e79","path":"sprites/spr_hornyMushroom_dead/spr_hornyMushroom_dead.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"7ddafc20-014c-422e-b0a4-bb84094c3f3f","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ee38e7c2-1135-4666-a861-eb7e6828d3b4","path":"sprites/spr_hornyMushroom_dead/spr_hornyMushroom_dead.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"9f3c14c9-4706-4d38-a888-abfe22667e0b","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"80ad42c3-92e8-4036-a282-5a7e1624b729","path":"sprites/spr_hornyMushroom_dead/spr_hornyMushroom_dead.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"b19f1d4d-30bc-416e-bb0d-f1b29e12e738","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0b47c902-236d-4d46-8c62-6db23155dea8","path":"sprites/spr_hornyMushroom_dead/spr_hornyMushroom_dead.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"7d0b5b80-c86a-4272-9a2d-4be0738b4381","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"fd61724d-6dfa-46d1-904b-99d5b3482856","path":"sprites/spr_hornyMushroom_dead/spr_hornyMushroom_dead.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,

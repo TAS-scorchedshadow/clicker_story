@@ -7,7 +7,7 @@ switch type{
 		_hp=enemyTypes.mobs.orangeMushroom.hp;
 		break;
 		case "greenMushroom":
-		_hp=enemyTypes.mobs.greenMushr.hp; 
+		_hp=enemyTypes.mobs.greenMushroom.hp; 
 		break;
 		case "hornyMushroom":
 		_hp=enemyTypes.mobs.hornyMushroom.hp; 

@@ -1,15 +1,17 @@
-/// @description variables
+/// @description v	ariables
 //object scales
-scr_imageScale(3)
+scale=3
+scr_imageScale(scale)
 
 //enemy stuff
 
 global.enemyExists=true
-state=enemy_state.idle
-enemy_types=["orangeMushroom", "hornyMushroom","greenMushroom"]
-boss_types=["mano"]
+if global.level=5{
+type=scr_bossChoose(global.zone)}
+else{
+type=scr_randomEnemyChoose(global.zone)}
 
-	
+
 {
 	enemyTypes = 
 	{
@@ -17,25 +19,28 @@ boss_types=["mano"]
 			greenMushroom : {
 				hp: 10,
 				money: 5,
+				yoffset:1
 			},
 			orangeMushroom : {
 				hp: 10,
 				money: 5,
+				yoffset:1,
 			},
 			hornyMushroom : {
 				hp: 15,
 				money: 7,
+				yoffset:1,
 			}
 		}
 	}
 }
 
-type=enemy_types[global.enemyType]
 global.hp=scr_enemyHpGet(type)
+state="idle"
 oldhp=global.hp
-fadeSpeed=0.05
+fadeSpeed=0.04
 image_speed=1
-global.hp= enemyTypes.mobs.orangeMushroom.hp
+y-=enemyTypes.mobs*scale
 
 //Shaking
 ix=x

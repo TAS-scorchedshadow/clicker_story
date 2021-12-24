@@ -36,10 +36,14 @@ else
 			},
 		},
 		money : 100000000,
+		zone:1,
+		level:1,
 	}
 }
 global.damage = playerStats.equipment.top.stat + playerStats.equipment.hat.stat +  playerStats.equipment.weapon.stat
 global.money = playerStats.money
+global.zone = playerStats.zone
+global.level = playerStats.level
 //Index is the number of stars
 global.upgradeCosts = [1000, 2000, 5000, 9000, 10000, 100000, 110000, 400000, 500000, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
 global.upgradeValue = [1, 2, 5, 9, 20, 100, 200, 300, 500, 400, 500, 1000, 1000, 2000, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
@@ -49,8 +53,6 @@ global.upgradeChance = [[95, 5, 0], [90, 10, 0], [85, 15, 0], [80, 20, 0], [75, 
 
 //enemy variables
 global.hp = 5
-global.enemyType=0
-global.damage = 1
 global.enemyExists=true
 
 
@@ -66,7 +68,7 @@ enum enemy_state{
 oldhp=global.hp
 canShake=false
 canCanShake=true
-shake=(5+log10(global.damage))
+shake=(3+log10(global.damage))
 view_x=camera_get_view_x(view_camera[0])
 view_y=camera_get_view_y(view_camera[0])
 

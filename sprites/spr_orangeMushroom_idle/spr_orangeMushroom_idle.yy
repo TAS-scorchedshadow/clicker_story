@@ -35,7 +35,7 @@
     "spriteId": {"name":"spr_orangeMushroom_idle","path":"sprites/spr_orangeMushroom_idle/spr_orangeMushroom_idle.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 12.0,
+    "playbackSpeed": 6.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
