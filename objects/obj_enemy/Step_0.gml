@@ -10,7 +10,7 @@ if (global.hp!=oldhp){
 	_y=image_yscale
 	repeat (10)
 	{instance_create_depth(x+random_range(32*_x,-32*_x),y+random_range(-64*_y,0),-20000,obj_particles)}
-	if global.hp =0{
+	if global.hp <=0{
 		state="dead"
 		
 		shake=sign(shake)*(5+log10(global.damage))*2

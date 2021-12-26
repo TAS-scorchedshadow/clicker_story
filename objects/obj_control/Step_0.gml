@@ -1,10 +1,9 @@
 /// @description enemy spawning & camera
 //enemy respawn trigger
-if global.enemyExists==false
-{global.enemyExists=true
+if (global.enemyExists==false&&alarmSent=false){
+	alarmSent=true
 	canCanShake=true
-	canShake=true
-alarm[0]=15;
+	alarm[0]=30;
 }
 
 

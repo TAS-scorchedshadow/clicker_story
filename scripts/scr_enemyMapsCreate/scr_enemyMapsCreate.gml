@@ -16,32 +16,8 @@ function scr_enemyMapsCreate(){
 	ds_map_add(enemyMoney, "hornyMushroom",7);
 	
 	//Enemy Level Spawn Map
-	enemyLevelSpawn=ds_map_create()
-	ds_map_add(enemyLevelSpawn, "greenMushroom",  1);
-	ds_map_add(enemyLevelSpawn, "orangeMushroom", 1);
-	ds_map_add(enemyLevelSpawn, "hornyMushroom",  7);
-}
-
-
-{
-	enemyTypes = 
-	{
-		zone1 : {
-			greenMushroom : {
-				hp: 10,
-				money: 5,
-				yoffset:1
-			},
-			orangeMushroom : {
-				hp: 10,
-				money: 5,
-				yoffset:1,
-			},
-			hornyMushroom : {
-				hp: 15,
-				money: 7,
-				yoffset:1,
-			}
-		}
-	}
+	enemyLevel=ds_map_create()	
+	ds_map_add(enemyLevel, "greenMushroom",  1);
+	ds_map_add(enemyLevel, "orangeMushroom", 1);
+	ds_map_add(enemyLevel, "hornyMushroom",  1);
 }

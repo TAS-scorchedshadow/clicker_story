@@ -1,6 +1,7 @@
 /// @description variables
 
 //Player Stats
+randomize()
 if file_exists("clickerStory.save")
 {
 	show_debug_message("save found")
@@ -52,11 +53,11 @@ global.upgradeChance = [[95, 5, 0], [90, 10, 0], [85, 15, 0], [80, 20, 0], [75, 
 
 
 //enemy variables
-global.hp = 5
+global.hp = 15
 global.enemyExists=true
-
-
 enemy=instance_create_depth(1100,500,-1,obj_enemy)
+
+alarmSent=false
 
 enum enemy_state{
 	idle,

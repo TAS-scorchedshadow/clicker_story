@@ -15,17 +15,3 @@ function scr_bossMapsCreate(){
 	bossZoneSpawn=ds_map_create()
 	ds_map_add(bossZoneSpawn, "mano",  1);
 }
-
-
-{
-	bossTypes = 
-	{
-		zone1 : {
-			mano : {
-				hp: 1000,
-				money: 10000,
-				yoffset:16
-			}
-		}
-	}
-}

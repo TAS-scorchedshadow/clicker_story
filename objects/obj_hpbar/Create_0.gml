@@ -1,14 +1,17 @@
 /// @description hp bar
-scale=1
+scale=3
+fuck=0
+xpos=1100
+ypos=100
 scr_imageScale(scale)
 sprite_index=spr_hpbarbase
-scr_setPosition(1100,200)
 draw_self()
+maxhp=global.hp
+Redhp=global.hp
+redhp=global.hp
+clamp(xpos, xpos-scale*32,xpos+scale*32)
+bruh=true
+loss=0
+clamp(loss,0,infinity)
 
-maxhp=obj_enemy.
-xposition=1132
-clamp(xposition, 1068,1132)
-
-global.hp/(64*scale)
-
-scr_setPosition(1132,200)
+hprange=scale*64
