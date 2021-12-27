@@ -1,5 +1,6 @@
 /// @Set variables
 item = "hat"
+itemObj = obj_hat
 scr_get_item_stats(item)
 itemChange = false
 upgrade = false

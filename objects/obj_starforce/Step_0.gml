@@ -16,7 +16,7 @@ if itemChange == true {
 }
 
 
-if upgrade == true and stats.stars < maxStars[stats.item_level] and itemChange = false{
+if upgrade == true and (stats.stars < maxStars[stats.item_level] or (stats.stars == maxStars[stats.item_level] and stats.item_level < stats.max_level)) and itemChange = false{
 	var pickRandNum = random_range(0, 100)
 	if global.money >= global.upgradeCosts[stats.stars]
 	{
@@ -41,7 +41,15 @@ if upgrade == true and stats.stars < maxStars[stats.item_level] and itemChange =
 				else
 				{
 					show_debug_message("SUCCESS")
-					stats.stars += 1
+					if stats.stars == maxStars[stats.item_level]
+					{
+						itemObj.image_index += 1
+						stats.stars = 0
+						stats.item_level += 1
+					}
+					else {
+						stats.stars += 1	
+					}
 					show_debug_message(obj_control.playerStats.equipment.weapon.stars)
 				
 				}

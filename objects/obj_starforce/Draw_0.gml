@@ -9,7 +9,9 @@ if stats.stars < maxStars[stats.item_level] {
 }
 else
 {
-	draw_text(x+133, y+90, string(stats.stars));
+	if stats.item_level < stats.max_level {
+		draw_text(x+133, y+90, "Upgrade to new item");
+	}
 }
 draw_text(x+133, y+105, "Success: " + string(global.upgradeChance[stats.stars][0]) + "%")
 draw_text(x+133, y+120, "Failure: " + string(global.upgradeChance[stats.stars][1]) + "%")

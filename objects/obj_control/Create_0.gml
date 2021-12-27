@@ -18,6 +18,7 @@ else
 				upgrade_cost: 10,
 				item_level: 0,
 				item_sprite: spr_top,
+				max_level: 2
 			},
 			hat : {
 				stat: 0,
@@ -26,6 +27,7 @@ else
 				upgrade_cost: 10,
 				item_level: 0,
 				item_sprite: spr_hat,
+				max_level: 2
 			},
 			weapon: {
 				stat: 1,
@@ -34,6 +36,7 @@ else
 				upgrade_cost: 10,
 				item_level: 1,
 				item_sprite: spr_weapon,
+				max_level: 2
 			},
 		},
 		money : 100000000,

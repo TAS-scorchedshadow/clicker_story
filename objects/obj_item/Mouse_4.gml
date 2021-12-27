@@ -9,3 +9,4 @@ else
 }
 upgrade.item = itemName
 upgrade.itemChange = true
+upgrade.itemObj = self
