@@ -1,16 +1,10 @@
 {
-  "spriteId": {
-    "name": "spr_enhance_button",
-    "path": "sprites/spr_enhance_button/spr_enhance_button.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "obj_upgrade_button_parent",
-    "path": "objects/obj_upgrade_button_parent/obj_upgrade_button_parent.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -24,7 +18,9 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":10,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":11,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -33,7 +29,7 @@
     "path": "folders/Objects/buttons/Upgrade.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_upgrade_button",
+  "name": "obj_upgrade_button_parent",
   "tags": [],
   "resourceType": "GMObject",
 }

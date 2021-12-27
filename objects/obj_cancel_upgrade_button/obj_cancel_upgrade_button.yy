@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_enhance_button",
-    "path": "sprites/spr_enhance_button/spr_enhance_button.yy",
+    "name": "spr_cancel_enhance_button",
+    "path": "sprites/spr_cancel_enhance_button/spr_cancel_enhance_button.yy",
   },
   "solid": false,
   "visible": true,
@@ -33,7 +33,7 @@
     "path": "folders/Objects/buttons/Upgrade.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_upgrade_button",
+  "name": "obj_cancel_upgrade_button",
   "tags": [],
   "resourceType": "GMObject",
 }

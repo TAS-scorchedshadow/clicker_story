@@ -8,3 +8,7 @@ if !instance_exists(obj_upgrade_button)
 {
 	instance_create_depth(x+79, y+250, layer_get_depth("gui") - 1, obj_upgrade_button)
 }
+if !instance_exists(obj_cancel_upgrade_button)
+{
+	instance_create_depth(x+170, y+250, layer_get_depth("gui") - 1, obj_cancel_upgrade_button)
+}
