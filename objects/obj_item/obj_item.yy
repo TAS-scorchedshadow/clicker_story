@@ -23,8 +23,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "buttons",
-    "path": "folders/Objects/buttons.yy",
+    "name": "items",
+    "path": "folders/Objects/buttons/items.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_item",

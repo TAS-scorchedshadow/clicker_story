@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_cursor",
-    "path": "sprites/spr_cursor/spr_cursor.yy",
+    "name": "spr_top",
+    "path": "sprites/spr_top/spr_top.yy",
   },
   "solid": false,
   "visible": true,
