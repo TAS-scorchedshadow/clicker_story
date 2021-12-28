@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},"order":1,},
     {"id":{"name":"spr_zakum","path":"sprites/spr_zakum/spr_zakum.yy",},"order":0,},
+    {"id":{"name":"spr_moonBunny","path":"sprites/spr_moonBunny/spr_moonBunny.yy",},"order":0,},
     {"id":{"name":"obj_cursor","path":"objects/obj_cursor/obj_cursor.yy",},"order":6,},
     {"id":{"name":"spr_blueShroom_idle_1","path":"sprites/spr_blueShroom_idle_1/spr_blueShroom_idle_1.yy",},"order":4,},
     {"id":{"name":"obj_play","path":"objects/obj_play/obj_play.yy",},"order":0,},
@@ -54,7 +55,9 @@
     {"id":{"name":"spr_weapon","path":"sprites/spr_weapon/spr_weapon.yy",},"order":1,},
     {"id":{"name":"spr_redShroom_idle_1","path":"sprites/spr_redShroom_idle_1/spr_redShroom_idle_1.yy",},"order":7,},
     {"id":{"name":"spr_rest","path":"sprites/spr_rest/spr_rest.yy",},"order":1,},
+    {"id":{"name":"spr_bloodHarpy","path":"sprites/spr_bloodHarpy/spr_bloodHarpy.yy",},"order":0,},
     {"id":{"name":"obj_slash","path":"objects/obj_slash/obj_slash.yy",},"order":1,},
+    {"id":{"name":"spr_ghostPirate","path":"sprites/spr_ghostPirate/spr_ghostPirate.yy",},"order":0,},
     {"id":{"name":"spr_clickerstoryTitle","path":"sprites/spr_clickerstoryTitle/spr_clickerstoryTitle.yy",},"order":3,},
     {"id":{"name":"spr_redShroom_damaged","path":"sprites/spr_redShroom_damaged/spr_redShroom_damaged.yy",},"order":2,},
     {"id":{"name":"spr_hitParticle1","path":"sprites/spr_hitParticle1/spr_hitParticle1.yy",},"order":0,},
@@ -77,6 +80,7 @@
     {"id":{"name":"obj_item","path":"objects/obj_item/obj_item.yy",},"order":3,},
     {"id":{"name":"obj_inventory","path":"objects/obj_inventory/obj_inventory.yy",},"order":0,},
     {"id":{"name":"spr_enhance_button","path":"sprites/spr_enhance_button/spr_enhance_button.yy",},"order":2,},
+    {"id":{"name":"spr_dualGhostPirate","path":"sprites/spr_dualGhostPirate/spr_dualGhostPirate.yy",},"order":1,},
     {"id":{"name":"rm_titlescreen","path":"rooms/rm_titlescreen/rm_titlescreen.yy",},"order":0,},
   ],
   "Options": [
