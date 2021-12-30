@@ -30,7 +30,7 @@ else
 				max_level: 2
 			},
 			weapon: {
-				stat: 1,
+				stat: 5,
 				stars: 0,
 				total_stars: 5,
 				upgrade_cost: 10,
@@ -58,9 +58,9 @@ global.upgradeChance = [[95, 5, 0], [90, 10, 0], [85, 15, 0], [80, 20, 0], [75, 
 //enemy variables
 global.hp = 15
 global.enemyExists=true
-enemy=instance_create_depth(1100,500,-1,obj_enemy)
-
 alarmSent=false
+alarm[0]=60
+alarm[1]=60
 
 enum enemy_state{
 	idle,
@@ -68,8 +68,14 @@ enum enemy_state{
 	dead,
 	}
 
+//old vairablaes
+
+clamp(global.zone,1,6)
+clamp(global.level,1,5)
+oldzone=global.zone
+oldlevel=global.level
+
 //camera variables
-oldhp=global.hp
 canShake=false
 canCanShake=true
 shake=(3+log10(global.damage))

@@ -1,93 +1,107 @@
 // Script assets have changed for v2.3.0 see
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function scr_randomEnemyChoose(_zone,_level){
-	var _enemyType
-	switch _zone{
-		case 1: 
+	var _enemyType="orangeMushroom"
+	switch (_zone){
+			case 1: 
 		switch(_level){
 			case 1:{
 			_enemyType=choose("orangeMushroom","hornyMushroom","greenMushroom")}
 			break;
 			case 2:{
-			_enemyType=choose("orangeMushroom","hornyMushroom","greenMushroom")}
+			_enemyType=choose("blueSnail","redSnail")}
+			break;
 			case 3:{
-			_enemyType=choose("orangeMushroom","hornyMushroom","greenMushroom")}
+			_enemyType=choose("stoneGolem","darkStoneGolem")}
 			break;
 			case 4:{
 			_enemyType=choose("mano")}
 			break;
-		}
-		case 2: 
+		}break;
+			case 2: 
 		switch(_level){
 			case 1:{
-			_enemyType=choose("orangeMushroom","hornyMushroom","greenMushroom")}
+			_enemyType=choose("darkStump","stump")}
 			break;
 			case 2:{
-			_enemyType=choose("orangeMushroom","hornyMushroom","greenMushroom")}
+			_enemyType=choose("axeStump","darkAxeStump")}
+			break;
 			case 3:{
-			_enemyType=choose("orangeMushroom","hornyMushroom","greenMushroom")}
+			_enemyType=choose("ghostStump")}
 			break;
 			case 4:{
-			_enemyType=choose("mano")}
+			_enemyType=choose("stumpy")}
 			break;
-		}
+		}break;
 			case 3: 
 		switch(_level){
 			case 1:{
-			_enemyType=choose("orangeMushroom","hornyMushroom","greenMushroom")}
+			_enemyType=choose("fairySlime","forestSlime","mysticWisp","waterSprite")}
 			break;
 			case 2:{
-			_enemyType=choose("orangeMushroom","hornyMushroom","greenMushroom")}
+			_enemyType=choose("ragingTome","grumpyTome")}
+			break;
 			case 3:{
-			_enemyType=choose("orangeMushroom","hornyMushroom","greenMushroom")}
+			_enemyType=choose("turnipy","oniony")}
 			break;
 			case 4:{
-			_enemyType=choose("mano")}
+			_enemyType=choose("moleKing")}
 			break;
-		}
+		}break;
 			case 4: 
 		switch(_level){
 			case 1:{
-			_enemyType=choose("orangeMushroom","hornyMushroom","greenMushroom")}
+			_enemyType=choose("copperDrake")}
 			break;
 			case 2:{
-			_enemyType=choose("orangeMushroom","hornyMushroom","greenMushroom")}
+			_enemyType=choose("whiteFang")}
+			break;
 			case 3:{
-			_enemyType=choose("orangeMushroom","hornyMushroom","greenMushroom")}
+			_enemyType=choose("sandRat","scorpion")}
 			break;
 			case 4:{
-			_enemyType=choose("mano")}
+			_enemyType=choose("dRoy","neoHuroid")}
 			break;
-		}
+			case 5:{
+			_enemyType=choose("zakum")}
+			break;
+		}break;
 			case 5: 
 		switch(_level){
 			case 1:{
-			_enemyType=choose("orangeMushroom","hornyMushroom","greenMushroom")}
+			_enemyType=choose("bloodHarp")}
 			break;
 			case 2:{
-			_enemyType=choose("orangeMushroom","hornyMushroom","greenMushroom")}
+			_enemyType=choose("dualGhostPirate","ghostPirate")}
+			break;
 			case 3:{
-			_enemyType=choose("orangeMushroom","hornyMushroom","greenMushroom")}
+			_enemyType=choose("moonBunny")}
 			break;
 			case 4:{
-			_enemyType=choose("mano")}
+			_enemyType=choose("bain","cerebes")}
 			break;
-		}
+			case 5:{
+			_enemyType=choose("vellum")}
+			break;
+		}break;
 			case 6: 
 		switch(_level){
 			case 1:{
-			_enemyType=choose("orangeMushroom","hornyMushroom","greenMushroom")}
+			_enemyType=choose("espressoMachine")}
 			break;
 			case 2:{
-			_enemyType=choose("orangeMushroom","hornyMushroom","greenMushroom")}
+			_enemyType=choose("mateon","plateon")}
+			break;
 			case 3:{
-			_enemyType=choose("orangeMushroom","hornyMushroom","greenMushroom")}
+			_enemyType=choose("advancedKnightA","advancedKnightB")}
 			break;
 			case 4:{
-			_enemyType=choose("mano")}
+			_enemyType=choose("swollenAxeStump","swollenDarkStump","swollenStump")}
 			break;
-		}
-			
+			case 5:{
+			_enemyType=choose("lotus")}
+			break;
+		}break;	
 	}
 	return _enemyType
 }

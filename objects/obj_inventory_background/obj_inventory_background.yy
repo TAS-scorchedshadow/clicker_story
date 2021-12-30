@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_equipment",
-    "path": "sprites/spr_equipment/spr_equipment.yy",
+    "name": "spr_equipment_1",
+    "path": "sprites/spr_equipment_1/spr_equipment_1.yy",
   },
   "solid": false,
   "visible": true,
@@ -25,7 +25,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "inventory",
-    "path": "folders/Objects/inventory.yy",
+    "path": "folders/Objects/GUI/inventory.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_inventory_background",

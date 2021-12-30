@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_weapon",
-    "path": "sprites/spr_weapon/spr_weapon.yy",
+    "name": "spr_weapon_1",
+    "path": "sprites/spr_weapon_1/spr_weapon_1.yy",
   },
   "solid": false,
   "visible": true,
@@ -30,7 +30,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "items",
-    "path": "folders/Objects/buttons/items.yy",
+    "path": "folders/Objects/GUI/buttons/items.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_weapon",

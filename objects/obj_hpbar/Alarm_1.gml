@@ -1,4 +1,3 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description red hp loss ena
 fuck=1
 loss=redhp-global.hp

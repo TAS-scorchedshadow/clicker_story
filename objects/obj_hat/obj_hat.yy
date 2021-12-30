@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_hat",
-    "path": "sprites/spr_hat/spr_hat.yy",
+    "name": "spr_hat_1",
+    "path": "sprites/spr_hat_1/spr_hat_1.yy",
   },
   "solid": false,
   "visible": true,
@@ -30,7 +30,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "items",
-    "path": "folders/Objects/buttons/items.yy",
+    "path": "folders/Objects/GUI/buttons/items.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_hat",

@@ -25,7 +25,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "buttons",
-    "path": "folders/Objects/buttons.yy",
+    "path": "folders/Objects/GUI/buttons.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_reset",

@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_redShroom_idle",
-    "path": "sprites/spr_redShroom_idle/spr_redShroom_idle.yy",
+    "name": "spr_redShroom_idle_1",
+    "path": "sprites/spr_redShroom_idle_1/spr_redShroom_idle_1.yy",
   },
   "solid": false,
   "visible": true,

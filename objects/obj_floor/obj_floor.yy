@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_floor1",
-    "path": "sprites/spr_floor1/spr_floor1.yy",
+    "name": "spr_floor1_1",
+    "path": "sprites/spr_floor1_1/spr_floor1_1.yy",
   },
   "solid": false,
   "visible": true,
@@ -27,8 +27,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Incomplete",
-    "path": "folders/Objects/Incomplete.yy",
+    "name": "Environmental",
+    "path": "folders/Objects/Environmental.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_floor",

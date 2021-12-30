@@ -1,42 +1,51 @@
 /// @description enemy anims & am i getting clicked
 
-
+//do i die from zone/level changing
+if (global.level!=oldlevel || global.zone!=oldzone){
+	instance_destroy()
+}
+	
 //am I hit or dead
 
+if state!="dead"
+{
 if (global.hp!=oldhp){
 	canShake=true
-	var _x, _y
-	_x=image_xscale
-	_y=image_yscale
-	repeat (10)
-	{instance_create_depth(x+random_range(32*_x,-32*_x),y+random_range(-64*_y,0),-20000,obj_particles)}
 	if global.hp <=0{
 		state="dead"
-		
 		shake=sign(shake)*(5+log10(global.damage))*2
 	}
 	else{
 		//alarm to set state back to idle
-		alarm[0]=image_number*4 //SET ALARM TIME TO BE EQUAL TO LENGTH OF HURT ANIM
 		state="damaged"
 	}
 }
+}
 
-oldhp=global.hp
+//set enemy visuals
 
-//set enemy type
 sprite=asset_get_index("spr_"+string(type)+"_"+string(state))
 sprite_index=sprite
+newscale=scale*ds_map_find_value(enemyScale,string(type))
+scr_imageScale(newscale)
 
-if state="dead"{
+switch state{
+	case "damaged":
+	if (global.hp!=oldhp){
+		alarm[0]=image_number*4;}
+		break; //SET ALARM TIME TO BE EQUAL TO LENGTH OF HURT ANIM
+	case "dead":
 	alarm[1] = 1
 	global.enemyExists=false
 	image_alpha-=fadeSpeed;
 	if image_alpha <0{
 		instance_destroy()}
-	if (image_index=image_number){
+	if (image_index >= image_number-1){
+		image_index=image_number-1
 		image_speed=0}
+		break;
 }
+
 
 //shaking
 
@@ -50,4 +59,7 @@ if (canShake=true) {
 	}
 }
 	
-		
+//reset variables
+oldzone=global.zone
+oldlevel=global.level
+oldhp=global.hp

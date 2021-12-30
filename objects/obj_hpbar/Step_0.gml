@@ -1,14 +1,22 @@
-/// @description redhp loss
+/// @description redhp 
+//Reset HP bar when enemy is killed
+if !global.enemyExists{
+	bruh=true}
+if global.enemyExists{
+	type=obj_enemy.type
+}
+
 //Lossing Red HP
 
-if (global.enemyExists=true&&(bruh=true||oldzone!=global.zone)){
+if (global.enemyExists=true&&(bruh=true||oldzone!=global.zone||oldlevel!=global.level)){
 	maxhp=global.hp
 	redhp=global.hp
 	Redhp=global.hp
 	bruh=false
-	bruh=false
 }
 if Redhp!=global.hp{
+	show_debug_message("fucker")
+	Redhp=global.hp
 	alarm[1]=15
 	loss=0}
 if fuck=1{
@@ -19,14 +27,9 @@ if fuck=1{
 	}
 }
 
-//Reset HP bar when enemy is killed
-if (global.enemyExists=false){
-	bruh=true}
-	
-	
-Redhp=global.hp
-oldzone=global.zone
-depth=0
 x=xpos
 y=ypos+96*scale
 	
+	
+oldzone=global.zone
+oldlevel=global.level

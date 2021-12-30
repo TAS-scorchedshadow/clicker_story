@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_cancel_enhance_button",
-    "path": "sprites/spr_cancel_enhance_button/spr_cancel_enhance_button.yy",
+    "name": "spr_cancel_enhance_button_1",
+    "path": "sprites/spr_cancel_enhance_button_1/spr_cancel_enhance_button_1.yy",
   },
   "solid": false,
   "visible": true,
@@ -30,7 +30,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Upgrade",
-    "path": "folders/Objects/buttons/Upgrade.yy",
+    "path": "folders/Objects/GUI/buttons/Upgrade.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_cancel_upgrade_button",

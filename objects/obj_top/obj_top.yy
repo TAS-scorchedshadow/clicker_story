@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_top",
-    "path": "sprites/spr_top/spr_top.yy",
+    "name": "spr_top_1",
+    "path": "sprites/spr_top_1/spr_top_1.yy",
   },
   "solid": false,
   "visible": true,
@@ -30,7 +30,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "items",
-    "path": "folders/Objects/buttons/items.yy",
+    "path": "folders/Objects/GUI/buttons/items.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_top",

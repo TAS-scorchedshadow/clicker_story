@@ -1,6 +1,5 @@
 /// @description Enemy Creator
 
-global.hp = floor(random_range(5,15.9))
 canCanShake=true
-enemy=instance_create_depth(1100,500,-1,obj_enemy)
+enemy=instance_create_depth(904.5,500,layer_get_depth(layer_get_id("zonebased_bg")),obj_enemy)
 alarmSent=false

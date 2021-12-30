@@ -5,7 +5,7 @@ if itemChange == true {
 	object_set_sprite(obj_starforceItem, stats.item_sprite)
 	if !instance_exists(obj_starforceItem)
 	{
-		itemSprite = instance_create_depth(565, 330, layer_get_depth("gui") - 1, obj_starforceItem)
+		itemSprite = instance_create_depth(565, 330, depth- 1, obj_starforceItem)
 	}
 	else
 	{

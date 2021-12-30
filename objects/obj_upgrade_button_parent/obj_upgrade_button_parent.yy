@@ -26,7 +26,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Upgrade",
-    "path": "folders/Objects/buttons/Upgrade.yy",
+    "path": "folders/Objects/GUI/buttons/Upgrade.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_upgrade_button_parent",
