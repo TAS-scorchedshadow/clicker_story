@@ -1,4 +1,4 @@
 /// @description reset scale
 
 
-scr_imageScale(1)
+scr_imageScale(3)

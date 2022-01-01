@@ -134,7 +134,7 @@ function scr_enemyMapsCreate(){
 	ds_map_add(enemyMoney, "lotus",  1000);	//boss 6
 	}
 	}
-	
+
 	//Enemy Scale Map
 	{enemyScale=ds_map_create()
 	//zone1

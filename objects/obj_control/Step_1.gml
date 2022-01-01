@@ -4,7 +4,7 @@
 if global.level<1
 global.level=1
 
-//do i have to respawn enemy because of level or zone change
+//do i have to respawn enemy because of level or zone change & do i change the music because of zone changes
 if (global.level!=oldlevel || global.zone!=oldzone){
 	camera_set_view_pos(view_camera[0],view_x, view_y)
 	canCanShake=true
@@ -12,8 +12,10 @@ if (global.level!=oldlevel || global.zone!=oldzone){
 	enemy=instance_create_depth(904.5,500,layer_get_depth(layer_get_id("zonebased_bg")) - 1,obj_enemy)
 	alarmSent=false	
 	show_debug_message((string(global.zone)+","+string(global.level)))
-	audio_stop_sound(music)
-	musicplaying=false
+	if (global.zone!=oldzone){	
+		audio_stop_sound(music)
+		musicplaying=false
+	}
 }
 
 

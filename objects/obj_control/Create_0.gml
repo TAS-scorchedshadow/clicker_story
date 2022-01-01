@@ -69,7 +69,6 @@ enum enemy_state{
 	}
 
 //old vairablaes
-
 clamp(global.zone,1,6)
 clamp(global.level,1,5)
 oldzone=global.zone
