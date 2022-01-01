@@ -1,10 +1,8 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description CamShake, Music,EnemySetter
 
 
 if global.level<1
 global.level=1
-
 
 //do i have to respawn enemy because of level or zone change
 if (global.level!=oldlevel || global.zone!=oldzone){
@@ -14,7 +12,19 @@ if (global.level!=oldlevel || global.zone!=oldzone){
 	enemy=instance_create_depth(904.5,500,layer_get_depth(layer_get_id("zonebased_bg")) - 1,obj_enemy)
 	alarmSent=false	
 	show_debug_message((string(global.zone)+","+string(global.level)))
+	audio_stop_sound(music)
+	musicplaying=false
 }
+
+
+//music
+if musicplaying=false{
+	music=scr_getMusic(global.zone)
+	audio_play_sound(music,1,true)
+	musicplaying=true
+}
+
+
 
 //enemy respawn trigger
 if (global.enemyExists==false&&alarmSent=false){
@@ -43,3 +53,4 @@ if canShake=true{
 
 oldzone=global.zone
 oldlevel=global.level
+

@@ -9,9 +9,14 @@ global.enemyExists=true
 type=scr_randomEnemyChoose(global.zone,global.level)
 scr_enemyMapsCreate()
 
+multiplier=1
 hp=ds_map_find_value(enemyHp,string(type))
 var v=(global.level+global.zone*6)
-global.hp=round(power(10,(v-7)/3))*10
+global.hp=multiplier*hp
+
+//is enemy a boss?
+
+//round(power(10,(v-7)/3))*10
 
 state="idle"
 oldzone=global.zone
@@ -20,6 +25,9 @@ oldhp=global.hp
 fadeSpeed=0.04
 image_speed=1
 scale=3
+
+soundPlayed=false
+
 
 sprite=asset_get_index("spr_"+string(type)+"_"+string(state))
 sprite_index=sprite
@@ -32,7 +40,7 @@ iy=y
 canShake=false
 shake=(5+log10(global.damage))
 
-
+//spawn particles
 var _x, _y
 _x=(sprite_width/2)
 _y=sprite_height

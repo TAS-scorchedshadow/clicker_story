@@ -74,6 +74,7 @@ clamp(global.zone,1,6)
 clamp(global.level,1,5)
 oldzone=global.zone
 oldlevel=global.level
+musicplaying=false
 
 //camera variables
 canShake=false

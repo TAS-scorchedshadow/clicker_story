@@ -46,6 +46,12 @@ switch state{
 		break;
 }
 
+//play death sound
+if (state=="dead"&&soundPlayed=false){
+	soundPlayed=true
+	audio_play_sound(Monster_Dying,3,false)
+}
+	
 
 //shaking
 
