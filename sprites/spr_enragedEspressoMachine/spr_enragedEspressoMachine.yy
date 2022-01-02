@@ -1,0 +1,175 @@
+{
+  "bboxMode": 0,
+  "collisionKind": 1,
+  "type": 0,
+  "origin": 7,
+  "preMultiplyAlpha": false,
+  "edgeFiltering": false,
+  "collisionTolerance": 0,
+  "swfPrecision": 2.525,
+  "bbox_left": 36,
+  "bbox_right": 227,
+  "bbox_top": 18,
+  "bbox_bottom": 243,
+  "HTile": false,
+  "VTile": false,
+  "For3D": false,
+  "width": 256,
+  "height": 256,
+  "textureGroupId": {
+    "name": "Default",
+    "path": "texturegroups/Default",
+  },
+  "swatchColours": null,
+  "gridX": 0,
+  "gridY": 0,
+  "frames": [
+    {"compositeImage":{"FrameId":{"name":"c289e025-9231-4708-a760-e7608dec7170","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"c289e025-9231-4708-a760-e7608dec7170","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":{"name":"ba1bc187-29d9-44a9-96df-64e3eaa5077c","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_enragedEspressoMachine","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"c289e025-9231-4708-a760-e7608dec7170","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"1551f688-c8d5-461c-9b12-ef4b5e3fe6c4","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"1551f688-c8d5-461c-9b12-ef4b5e3fe6c4","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":{"name":"ba1bc187-29d9-44a9-96df-64e3eaa5077c","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_enragedEspressoMachine","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"1551f688-c8d5-461c-9b12-ef4b5e3fe6c4","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"a2c84a47-1b49-42a8-b476-0076f29b42ec","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"a2c84a47-1b49-42a8-b476-0076f29b42ec","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":{"name":"ba1bc187-29d9-44a9-96df-64e3eaa5077c","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_enragedEspressoMachine","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"a2c84a47-1b49-42a8-b476-0076f29b42ec","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"172d3ed2-d978-4d2c-b1ed-b70eff780e4f","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"172d3ed2-d978-4d2c-b1ed-b70eff780e4f","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":{"name":"ba1bc187-29d9-44a9-96df-64e3eaa5077c","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_enragedEspressoMachine","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"172d3ed2-d978-4d2c-b1ed-b70eff780e4f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"8815047f-0746-4a1a-92bd-d4bae9f9fb89","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"8815047f-0746-4a1a-92bd-d4bae9f9fb89","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":{"name":"ba1bc187-29d9-44a9-96df-64e3eaa5077c","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_enragedEspressoMachine","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"8815047f-0746-4a1a-92bd-d4bae9f9fb89","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"f70bb19e-1357-4faa-8cd3-e5a941deba4d","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f70bb19e-1357-4faa-8cd3-e5a941deba4d","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":{"name":"ba1bc187-29d9-44a9-96df-64e3eaa5077c","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_enragedEspressoMachine","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"f70bb19e-1357-4faa-8cd3-e5a941deba4d","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"c4d097a5-a8a0-4ace-a0cf-6188eac3b05a","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"c4d097a5-a8a0-4ace-a0cf-6188eac3b05a","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":{"name":"ba1bc187-29d9-44a9-96df-64e3eaa5077c","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_enragedEspressoMachine","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"c4d097a5-a8a0-4ace-a0cf-6188eac3b05a","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"04ae27c0-5a36-4329-b46d-efef4549b8a9","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"04ae27c0-5a36-4329-b46d-efef4549b8a9","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":{"name":"ba1bc187-29d9-44a9-96df-64e3eaa5077c","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_enragedEspressoMachine","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"04ae27c0-5a36-4329-b46d-efef4549b8a9","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"f1d99290-eeae-4747-b3e6-0c9a5d6f5fbb","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f1d99290-eeae-4747-b3e6-0c9a5d6f5fbb","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":{"name":"ba1bc187-29d9-44a9-96df-64e3eaa5077c","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_enragedEspressoMachine","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"f1d99290-eeae-4747-b3e6-0c9a5d6f5fbb","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"5859ada3-fe40-40e0-bc94-edd0b86cd95b","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"5859ada3-fe40-40e0-bc94-edd0b86cd95b","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":{"name":"ba1bc187-29d9-44a9-96df-64e3eaa5077c","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_enragedEspressoMachine","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"5859ada3-fe40-40e0-bc94-edd0b86cd95b","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"5de1ce66-bc6b-4a30-b871-1a6ca213738a","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"5de1ce66-bc6b-4a30-b871-1a6ca213738a","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":{"name":"ba1bc187-29d9-44a9-96df-64e3eaa5077c","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_enragedEspressoMachine","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"5de1ce66-bc6b-4a30-b871-1a6ca213738a","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"6bf89a85-5603-47bd-8ef1-a20d77dd4c24","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"6bf89a85-5603-47bd-8ef1-a20d77dd4c24","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":{"name":"ba1bc187-29d9-44a9-96df-64e3eaa5077c","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_enragedEspressoMachine","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"6bf89a85-5603-47bd-8ef1-a20d77dd4c24","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"9f821381-213e-4328-8c34-275b08129665","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"9f821381-213e-4328-8c34-275b08129665","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":{"name":"ba1bc187-29d9-44a9-96df-64e3eaa5077c","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_enragedEspressoMachine","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"9f821381-213e-4328-8c34-275b08129665","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"25c85716-cddd-458d-b9bb-aa412bf7eb33","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"25c85716-cddd-458d-b9bb-aa412bf7eb33","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":{"name":"ba1bc187-29d9-44a9-96df-64e3eaa5077c","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_enragedEspressoMachine","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"25c85716-cddd-458d-b9bb-aa412bf7eb33","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"7fd454be-9318-4d60-8600-6a08a701ccfe","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"7fd454be-9318-4d60-8600-6a08a701ccfe","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":{"name":"ba1bc187-29d9-44a9-96df-64e3eaa5077c","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_enragedEspressoMachine","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"7fd454be-9318-4d60-8600-6a08a701ccfe","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"925ac2a9-a2f2-44b6-b5f4-091a2d7771ba","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"925ac2a9-a2f2-44b6-b5f4-091a2d7771ba","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":{"name":"ba1bc187-29d9-44a9-96df-64e3eaa5077c","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_enragedEspressoMachine","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"925ac2a9-a2f2-44b6-b5f4-091a2d7771ba","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"9b9866ae-87a4-40bd-b753-1e4f8df039d6","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"9b9866ae-87a4-40bd-b753-1e4f8df039d6","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":{"name":"ba1bc187-29d9-44a9-96df-64e3eaa5077c","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_enragedEspressoMachine","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"9b9866ae-87a4-40bd-b753-1e4f8df039d6","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"b5fe2f20-4626-4fb7-a31c-68987fa53672","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"b5fe2f20-4626-4fb7-a31c-68987fa53672","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":{"name":"ba1bc187-29d9-44a9-96df-64e3eaa5077c","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_enragedEspressoMachine","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"b5fe2f20-4626-4fb7-a31c-68987fa53672","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"e9bad013-8cfb-4c9f-8b3d-215cfb32edbf","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"e9bad013-8cfb-4c9f-8b3d-215cfb32edbf","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":{"name":"ba1bc187-29d9-44a9-96df-64e3eaa5077c","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_enragedEspressoMachine","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"e9bad013-8cfb-4c9f-8b3d-215cfb32edbf","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"7631e177-2e04-46cb-88f0-fefb08b5b4b4","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"7631e177-2e04-46cb-88f0-fefb08b5b4b4","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":{"name":"ba1bc187-29d9-44a9-96df-64e3eaa5077c","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_enragedEspressoMachine","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"7631e177-2e04-46cb-88f0-fefb08b5b4b4","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"64ac674f-8e23-48c4-a541-64a6799603f8","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"64ac674f-8e23-48c4-a541-64a6799603f8","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":{"name":"ba1bc187-29d9-44a9-96df-64e3eaa5077c","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_enragedEspressoMachine","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"64ac674f-8e23-48c4-a541-64a6799603f8","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"037e3f99-267e-484f-808a-268cc4d48478","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"037e3f99-267e-484f-808a-268cc4d48478","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":{"name":"ba1bc187-29d9-44a9-96df-64e3eaa5077c","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_enragedEspressoMachine","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"037e3f99-267e-484f-808a-268cc4d48478","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"45a92c89-8915-41e2-8ce0-6bc1ae105bfc","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"45a92c89-8915-41e2-8ce0-6bc1ae105bfc","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":{"name":"ba1bc187-29d9-44a9-96df-64e3eaa5077c","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_enragedEspressoMachine","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"45a92c89-8915-41e2-8ce0-6bc1ae105bfc","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"f0fd00f0-94f9-4e6f-a0c5-1f8c19883366","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f0fd00f0-94f9-4e6f-a0c5-1f8c19883366","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":{"name":"ba1bc187-29d9-44a9-96df-64e3eaa5077c","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_enragedEspressoMachine","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"f0fd00f0-94f9-4e6f-a0c5-1f8c19883366","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"6b057848-51a6-4ef8-bcc5-4d15bae11f50","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"6b057848-51a6-4ef8-bcc5-4d15bae11f50","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"LayerId":{"name":"ba1bc187-29d9-44a9-96df-64e3eaa5077c","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_enragedEspressoMachine","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","name":"6b057848-51a6-4ef8-bcc5-4d15bae11f50","tags":[],"resourceType":"GMSpriteFrame",},
+  ],
+  "sequence": {
+    "spriteId": {"name":"spr_enragedEspressoMachine","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},
+    "timeUnits": 1,
+    "playback": 1,
+    "playbackSpeed": 30.0,
+    "playbackSpeedType": 0,
+    "autoRecord": true,
+    "volume": 1.0,
+    "length": 25.0,
+    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
+    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
+    "tracks": [
+      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+            {"id":"83689eea-f465-4f9c-8afa-d00fa6abc7ef","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c289e025-9231-4708-a760-e7608dec7170","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"cf49da96-60f2-4b23-a286-b2005abef338","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1551f688-c8d5-461c-9b12-ef4b5e3fe6c4","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"941e7f9c-8960-43b1-9af7-f3f744f20c69","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a2c84a47-1b49-42a8-b476-0076f29b42ec","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"ccdb19d3-4417-4f9f-aad0-e6733ac90ca2","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"172d3ed2-d978-4d2c-b1ed-b70eff780e4f","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"bba81321-dfe1-49a3-9cd2-73e5b90c93ed","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8815047f-0746-4a1a-92bd-d4bae9f9fb89","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"8a0ddf06-8adb-4dda-9d7a-3b85bebf2507","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f70bb19e-1357-4faa-8cd3-e5a941deba4d","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"312609cb-72d4-4f15-b71a-b3f433258795","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c4d097a5-a8a0-4ace-a0cf-6188eac3b05a","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"da8e7ec4-6aa6-41d9-a39b-01ec60bd6782","Key":7.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"04ae27c0-5a36-4329-b46d-efef4549b8a9","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"11dd848c-6034-4e04-84c4-508585b47d82","Key":8.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f1d99290-eeae-4747-b3e6-0c9a5d6f5fbb","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"1290d08f-edfa-4aec-be0a-ce4f55e95c7e","Key":9.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5859ada3-fe40-40e0-bc94-edd0b86cd95b","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"cffd99fc-b377-438e-a7fa-018b60bcd223","Key":10.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5de1ce66-bc6b-4a30-b871-1a6ca213738a","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"3130f304-c512-4036-91e4-1e57dbbc51ed","Key":11.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6bf89a85-5603-47bd-8ef1-a20d77dd4c24","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"ec30f335-96c2-4381-a8a6-513a5e0d2e97","Key":12.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9f821381-213e-4328-8c34-275b08129665","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"40b36590-500f-4e06-aece-75ff6e21559b","Key":13.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"25c85716-cddd-458d-b9bb-aa412bf7eb33","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"869ebae0-4953-4c8c-855b-259f841c9324","Key":14.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7fd454be-9318-4d60-8600-6a08a701ccfe","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"0073ec0a-617f-44dc-b098-1de2679e50f9","Key":15.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"925ac2a9-a2f2-44b6-b5f4-091a2d7771ba","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"c903c7ed-1470-439c-8460-68ffd132169a","Key":16.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9b9866ae-87a4-40bd-b753-1e4f8df039d6","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"d2499ca2-ba2a-4849-92f7-bcbea75ec30a","Key":17.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b5fe2f20-4626-4fb7-a31c-68987fa53672","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"3e25636e-debf-48ef-b19c-a97e2eee2633","Key":18.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e9bad013-8cfb-4c9f-8b3d-215cfb32edbf","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"07bf07bf-d41b-4d48-85cd-868fc7822f2e","Key":19.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7631e177-2e04-46cb-88f0-fefb08b5b4b4","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"286a211c-c913-4539-9ae4-308af3275964","Key":20.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"64ac674f-8e23-48c4-a541-64a6799603f8","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"e4ae6f91-4f2d-4953-ba4c-e717d9729158","Key":21.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"037e3f99-267e-484f-808a-268cc4d48478","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"85ce79d4-ab5a-4d20-8ddb-15a372804bcf","Key":22.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"45a92c89-8915-41e2-8ce0-6bc1ae105bfc","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"8b9779a6-8422-46ac-9337-9df2dc71538f","Key":23.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f0fd00f0-94f9-4e6f-a0c5-1f8c19883366","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"9bd526ba-8782-4ea9-9367-6de48dc34832","Key":24.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"6b057848-51a6-4ef8-bcc5-4d15bae11f50","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
+    ],
+    "visibleRange": null,
+    "lockOrigin": false,
+    "showBackdrop": true,
+    "showBackdropImage": false,
+    "backdropImagePath": "",
+    "backdropImageOpacity": 0.5,
+    "backdropWidth": 1366,
+    "backdropHeight": 768,
+    "backdropXOffset": 0.0,
+    "backdropYOffset": 0.0,
+    "xorigin": 128,
+    "yorigin": 256,
+    "eventToFunction": {},
+    "eventStubScript": null,
+    "parent": {"name":"spr_enragedEspressoMachine","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},
+    "resourceVersion": "1.3",
+    "name": "spr_enragedEspressoMachine",
+    "tags": [],
+    "resourceType": "GMSequence",
+  },
+  "layers": [
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"ba1bc187-29d9-44a9-96df-64e3eaa5077c","tags":[],"resourceType":"GMImageLayer",},
+  ],
+  "nineSlice": null,
+  "parent": {
+    "name": "6-1",
+    "path": "folders/Sprites/Enemies/Zone 6/6-1.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "spr_enragedEspressoMachine",
+  "tags": [],
+  "resourceType": "GMSprite",
+}
