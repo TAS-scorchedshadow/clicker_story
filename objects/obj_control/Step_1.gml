@@ -1,9 +1,35 @@
 /// @description CamShake, Music,EnemySetter
 
 
-if global.level<1
-global.level=1
+//Show arrows on previous levels and hide on highest
+if (playerStats.zone=global.zone&&playerStats.level=global.level&&!update){
+	killed=0
+	update=true
+}
+if (playerStats.zone>global.zone || playerStats.level>global.level){
+	killed=10
+	update=false
+}
 
+//Update highest zone/level player has been in
+if (killed=10&&update){
+	update=false
+	if (playerStats.zone<=3&&playerStats.level==4){
+		playerStats.zone+=1
+		playerStats.level=0
+	}
+	if (playerStats.level==5){
+		if (playerStats.zone==6){
+			playerStats.level-=1
+		}
+		else{playerStats.zone+=1
+			playerStats.level=0	
+			}
+		}
+		
+	playerStats.level+=1
+}
+	
 //do i have to respawn enemy because of level or zone change & do i change the music because of zone changes
 if (global.level!=oldlevel || global.zone!=oldzone){
 	camera_set_view_pos(view_camera[0],view_x, view_y)

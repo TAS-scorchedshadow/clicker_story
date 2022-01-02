@@ -61,6 +61,7 @@ global.enemyExists=true
 alarmSent=false
 alarm[0]=60
 alarm[1]=60
+alarm[2]=60
 
 enum enemy_state{
 	idle,
@@ -82,3 +83,7 @@ shake=(3+log10(global.damage))
 view_x=camera_get_view_x(view_camera[0])
 view_y=camera_get_view_y(view_camera[0])
 
+
+//enemy counter
+killed=-1
+update=true
