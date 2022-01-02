@@ -1,5 +1,5 @@
 /// @description draw zone selector text
-
+draw_sprite_ext(spr_hpbarbase,0,x,y,scale+1,scale,0,0,0)
 draw_set_halign(fa_center);
 draw_set_valign(fa_center);
 draw_set_font(ft_maplestoryBold36)	

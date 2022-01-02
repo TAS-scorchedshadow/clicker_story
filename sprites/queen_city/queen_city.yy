@@ -10,12 +10,12 @@
   "bbox_left": 0,
   "bbox_right": 1599,
   "bbox_top": 0,
-  "bbox_bottom": 899,
+  "bbox_bottom": 1199,
   "HTile": false,
   "VTile": false,
   "For3D": false,
   "width": 1600,
-  "height": 900,
+  "height": 1200,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"a825ac6d-1569-42ba-8aa4-6335c650b6be","path":"sprites/spr_background1/spr_background1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a825ac6d-1569-42ba-8aa4-6335c650b6be","path":"sprites/spr_background1/spr_background1.yy",},"LayerId":{"name":"d0befa4e-ac72-4600-a4b0-a25c568d16bc","path":"sprites/spr_background1/spr_background1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_background1","path":"sprites/spr_background1/spr_background1.yy",},"resourceVersion":"1.0","name":"a825ac6d-1569-42ba-8aa4-6335c650b6be","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"e8669ab8-af3a-4b0d-8c30-53c501f8f00b","path":"sprites/queen_city/queen_city.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"e8669ab8-af3a-4b0d-8c30-53c501f8f00b","path":"sprites/queen_city/queen_city.yy",},"LayerId":{"name":"52cea384-99b5-47bb-862c-ae36d5eeaf46","path":"sprites/queen_city/queen_city.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"queen_city","path":"sprites/queen_city/queen_city.yy",},"resourceVersion":"1.0","name":"e8669ab8-af3a-4b0d-8c30-53c501f8f00b","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_background1","path":"sprites/spr_background1/spr_background1.yy",},
+    "spriteId": {"name":"queen_city","path":"sprites/queen_city/queen_city.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"368f48cc-37cc-46f6-b708-f580fd05958f","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a825ac6d-1569-42ba-8aa4-6335c650b6be","path":"sprites/spr_background1/spr_background1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"bdf0e3d7-943c-4ac3-898a-9ee9f5d7a671","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e8669ab8-af3a-4b0d-8c30-53c501f8f00b","path":"sprites/queen_city/queen_city.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_background1","path":"sprites/spr_background1/spr_background1.yy",},
+    "parent": {"name":"queen_city","path":"sprites/queen_city/queen_city.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_background1",
+    "name": "queen_city",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"d0befa4e-ac72-4600-a4b0-a25c568d16bc","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"52cea384-99b5-47bb-862c-ae36d5eeaf46","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Sprites/Backgrounds.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_background1",
+  "name": "queen_city",
   "tags": [],
   "resourceType": "GMSprite",
 }
