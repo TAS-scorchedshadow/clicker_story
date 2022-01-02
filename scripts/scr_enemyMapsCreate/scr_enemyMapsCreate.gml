@@ -143,8 +143,8 @@ function scr_enemyMapsCreate(){
 	ds_map_add(enemyScale, "hornyMushroom",1);
 	ds_map_add(enemyScale, "blueSnail",  1);
 	ds_map_add(enemyScale, "redSnail", 1);
-	ds_map_add(enemyScale, "stoneGolem",  0.5);
-	ds_map_add(enemyScale, "darkStoneGolem",  0.5);
+	ds_map_add(enemyScale, "stoneGolem",  0.75);
+	ds_map_add(enemyScale, "darkStoneGolem",  0.75);
 	ds_map_add(enemyScale, "mano",1);	//boss1
 	}
 	

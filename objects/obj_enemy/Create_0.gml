@@ -1,6 +1,4 @@
 /// @description v	ariables
-//object scales
-
 
 //enemy stuff
 
@@ -10,10 +8,15 @@ type=scr_randomEnemyChoose(global.zone,global.level)
 scr_enemyMapsCreate()
 
 hp=ds_map_find_value(enemyHp,string(type))
-multiplier = round(power(global.level + global.zone*4 + 1, (global.zone)))
-global.hp=multiplier
+hpMultiplier = round(power(global.level + global.zone*4 + 1, (global.zone)))
+global.hp=hpMultiplier
 
 //is enemy a boss?
+global.boss=scr_isBoss(type)
+if global.boss{
+	global.hp=hpMultiplier*10
+	alarm[2]=60*10
+}
 
 //round(power(10,(v-7)/3))*10
 
@@ -23,15 +26,15 @@ oldlevel=global.level
 oldhp=global.hp
 fadeSpeed=0.04
 image_speed=1
-scale=3
-
 soundPlayed=false
 
+//object scales
 
 sprite=asset_get_index("spr_"+string(type)+"_"+string(state))
 sprite_index=sprite
-newscale=scale*ds_map_find_value(enemyScale,string(type))
-scr_imageScale(newscale)
+scale=3*ds_map_find_value(enemyScale,string(type))
+scr_imageScale(scale)
+
 
 //Shaking
 ix=x

@@ -1,14 +1,30 @@
 /// @description CamShake, Music,EnemySetter
 
-
+//Level Arrow Management
+if arrowSpawned{
 //Show arrows on previous levels and hide on highest
 if (playerStats.zone=global.zone&&playerStats.level=global.level&&!update){
 	killed=0
 	update=true
+	instance_deactivate_object(forwardArrow)
 }
 if (playerStats.zone>global.zone || playerStats.level>global.level){
 	killed=10
 	update=false
+	instance_activate_object(forwardArrow)
+}
+
+var _showPrevArrow =!(global.zone==1&&global.level==1)
+
+switch _showPrevArrow{
+	case true:
+	instance_activate_object(previousArrow)
+	break;
+	case false:
+	instance_deactivate_object(previousArrow)
+	break;
+}
+	
 }
 
 //Update highest zone/level player has been in
@@ -29,7 +45,7 @@ if (killed=10&&update){
 		
 	playerStats.level+=1
 }
-	
+
 //do i have to respawn enemy because of level or zone change & do i change the music because of zone changes
 if (global.level!=oldlevel || global.zone!=oldzone){
 	camera_set_view_pos(view_camera[0],view_x, view_y)

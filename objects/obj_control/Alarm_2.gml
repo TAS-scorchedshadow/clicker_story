@@ -1,5 +1,8 @@
 /// @description Create level changer
+arrowSpawned=true
 arrowDirection=1
-instance_create_depth(1233,384,-9999,obj_levelArrow) 
+forwardArrow=instance_create_depth(1233,384,-750,obj_levelArrow) 
 arrowDirection=-1
-instance_create_depth(538,384,-9999,obj_levelArrow)
+previousArrow=instance_create_depth(538,384,-750,obj_levelArrow)
+instance_deactivate_object(forwardArrow)
+instance_deactivate_object(previousArrow)

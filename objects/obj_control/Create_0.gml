@@ -58,6 +58,7 @@ global.upgradeChance = [[95, 5, 0], [90, 10, 0], [85, 15, 0], [80, 20, 0], [75, 
 //enemy variables
 global.hp = 15
 global.enemyExists=true
+global.boss=false
 alarmSent=false
 alarm[0]=60
 alarm[1]=60
@@ -87,3 +88,4 @@ view_y=camera_get_view_y(view_camera[0])
 //enemy counter
 killed=-1
 update=true
+arrowSpawned=false

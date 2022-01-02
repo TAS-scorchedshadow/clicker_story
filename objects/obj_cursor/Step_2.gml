@@ -19,12 +19,13 @@ if (collision_point(mouse_x,mouse_y,obj_enemy,false,true)&&!collision_point(mous
 	}
 
 if (mouse_check_button_released(mb_left))
-{index=0}
+{index=3}
 
 colliding=collision_point(mouse_x,mouse_y,obj_item,false,true)||collision_point(mouse_x,mouse_y,obj_item,false,true)||collision_point(mouse_x,mouse_y,obj_upgrade_button_parent,false,true)||(collision_point(mouse_x,mouse_y,obj_levelArrow,false,true)&&obj_levelArrow.visible)
 colliding2=collision_point(mouse_x,mouse_y,obj_play,false,true)||collision_point(mouse_x,mouse_y,obj_reset,false,true)
 
 if (colliding||colliding2){
+	
 	if(index!=2){
 		touching=true
 		index = 1
@@ -36,7 +37,7 @@ if (colliding||colliding2){
 }
 
 if (!colliding&&touching){
-	index=0
+	index=3
 	touching=false
 	soundPlayed=false
 }

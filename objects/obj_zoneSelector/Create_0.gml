@@ -6,3 +6,7 @@ image_xscale=scale+1
 image_yscale=scale
 sprite_index=spr_hpbarbase
 depth=-1000
+time=1000
+timeReset=false
+oldzone=global.zone
+oldlevel=global.level

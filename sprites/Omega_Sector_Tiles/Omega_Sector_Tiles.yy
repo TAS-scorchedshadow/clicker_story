@@ -70,7 +70,7 @@
   "nineSlice": null,
   "parent": {
     "name": "Tilesets",
-    "path": "folders/Objects/Tilesets.yy",
+    "path": "folders/Sprites/Tilesets.yy",
   },
   "resourceVersion": "1.0",
   "name": "Omega_Sector_Tiles",
