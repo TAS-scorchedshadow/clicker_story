@@ -42,5 +42,5 @@ if keyboard_check_pressed(ord("R")){
 	}
 
 //DEBUG DAMAGE SCALER
-var v=(global.level+global.zone*6)
-global.damage=round(power(10,(v-7)/3.01))
+//var v=(global.level+global.zone*6)
+//global.damage=round(power(10,(v-7)/3.01))

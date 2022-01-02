@@ -18,9 +18,9 @@ if itemChange == true {
 
 if upgrade == true and (stats.stars < maxStars[stats.item_level] or (stats.stars == maxStars[stats.item_level] and stats.item_level < stats.max_level)) and itemChange = false{
 	var pickRandNum = random_range(0, 100)
-	if global.money >= global.upgradeCosts[stats.stars]
+	if global.money >= scr_calc_cost(stats.stars, stats.item_level)
 	{
-		global.money -= global.upgradeCosts[stats.stars]
+		global.money -= scr_calc_cost(stats.stars, stats.item_level)
 		if pickRandNum > 0
 		{
 			if pickRandNum < global.upgradeChance[stats.stars][2]
@@ -48,10 +48,11 @@ if upgrade == true and (stats.stars < maxStars[stats.item_level] or (stats.stars
 						stats.item_level += 1
 					}
 					else {
-						stats.stars += 1	
+						stats.stars += 1
+						stats.stat += global.upgradeValue[stats.stars]
 					}
 					show_debug_message(obj_control.playerStats.equipment.weapon.stars)
-				
+					scr_calc_damage()
 				}
 			}
 		}

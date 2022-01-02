@@ -13,6 +13,7 @@ if (collision_point(mouse_x,mouse_y,obj_enemy,false,true)&&!collision_point(mous
 			else{
 				instance_create_depth(mouse_x,mouse_y,layer_get_depth(layer_get_id("gui"))-1000,obj_slash)}
 				global.hp-=global.damage
+				show_debug_message(global.damage)
 				audio_play_sound(swordhit,2,false)
 		}
 	}

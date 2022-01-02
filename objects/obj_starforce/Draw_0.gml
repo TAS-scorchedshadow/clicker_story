@@ -21,4 +21,4 @@ draw_text(x+133, y+135, "Destruction: " + string(global.upgradeChance[stats.star
 
 draw_set_color(c_white)
 //draw costs
-draw_text(x+220, y+229, string(global.upgradeCosts[stats.stars]))
+draw_text(x+220, y+229, string(scr_calc_cost(stats.stars, stats.item_level)))

@@ -9,10 +9,9 @@ global.enemyExists=true
 type=scr_randomEnemyChoose(global.zone,global.level)
 scr_enemyMapsCreate()
 
-multiplier=1
 hp=ds_map_find_value(enemyHp,string(type))
-var v=(global.level+global.zone*6)
-global.hp=multiplier*hp
+multiplier = round(power(global.level + global.zone*4 + 1, (global.zone)))
+global.hp=multiplier
 
 //is enemy a boss?
 
