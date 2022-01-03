@@ -60,7 +60,7 @@ function scr_randomEnemyChoose(_zone,_level){
 			_enemyType=choose("sandRat","scorpion")}
 			break;
 			case 4:{
-			_enemyType=choose("dRoy","neoHuroid")}
+			_enemyType=choose("neoHuroid")}
 			break;
 			case 5:{
 			_enemyType=choose("zakum")}
@@ -72,13 +72,13 @@ function scr_randomEnemyChoose(_zone,_level){
 			_enemyType=choose("bloodHarp")}
 			break;
 			case 2:{
-			_enemyType=choose("dualGhostPirate","ghostPirate")}
+			_enemyType=choose("ghostPirate")}
 			break;
 			case 3:{
 			_enemyType=choose("moonBunny")}
 			break;
 			case 4:{
-			_enemyType=choose("bain","cerebes")}
+			_enemyType=choose("bain")}
 			break;
 			case 5:{
 			_enemyType=choose("vellum")}
@@ -96,7 +96,7 @@ function scr_randomEnemyChoose(_zone,_level){
 			_enemyType=choose("advancedKnightA","advancedKnightB")}
 			break;
 			case 4:{
-			_enemyType=choose("swollenAxeStump","swollenDarkStump","swollenStump")}
+			_enemyType=choose("swollenStump")}
 			break;
 			case 5:{
 			_enemyType=choose("lotus")}
