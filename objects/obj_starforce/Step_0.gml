@@ -49,7 +49,6 @@ if upgrade == true and (stats.stars < maxStars[stats.item_level] or (stats.stars
 					}
 					else {
 						stats.stars += 1
-						stats.stat += global.upgradeValue[stats.stars]
 					}
 					show_debug_message(obj_control.playerStats.equipment.weapon.stars)
 					scr_calc_damage()
