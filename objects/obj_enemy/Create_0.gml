@@ -8,14 +8,12 @@ type=scr_randomEnemyChoose(global.zone,global.level)
 scr_enemyMapsCreate()
 
 hp=ds_map_find_value(enemyHp,string(type))
-hpMultiplier = round(power(global.level + global.zone*4 + 1, (global.zone)))
-global.hp=hpMultiplier
+global.hp=hp
 
 //is enemy a boss?
 global.boss=scr_isBoss(type)
 if global.boss{
-	global.hp=hpMultiplier*10
-	alarm[2]=60*10
+	alarm[2]=60*30
 }
 
 //round(power(10,(v-7)/3))*10

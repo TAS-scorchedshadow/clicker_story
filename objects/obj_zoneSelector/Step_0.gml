@@ -5,7 +5,7 @@ if (oldzone!=global.zone||oldlevel!=global.level||!global.enemyExists){
 }
 
 if (global.enemyExists&&timeReset){
-	time=1000
+	time=3000
 	timeReset=false
 }
 
@@ -15,7 +15,7 @@ if (global.boss&&!timeReset){
 }
 
 if time<=0{
-	time=1000
+	time=3000
 }
 
 oldzone=global.zone

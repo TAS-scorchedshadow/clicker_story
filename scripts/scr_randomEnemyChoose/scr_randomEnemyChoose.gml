@@ -87,7 +87,7 @@ function scr_randomEnemyChoose(_zone,_level){
 			case 6: 
 		switch(_level){
 			case 1:{
-			_enemyType=choose("espressoMachine")}
+			_enemyType=choose("enragedEspressoMachine")}
 			break;
 			case 2:{
 			_enemyType=choose("mateon","plateon")}

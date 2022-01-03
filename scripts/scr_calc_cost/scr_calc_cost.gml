@@ -1,7 +1,10 @@
 // Script assets have changed for v2.3.0 see
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function scr_calc_cost(stars, item_level){
-	cost = power((stars+1)*10, power(item_level, 2))
-	
+	_level = scr_itemValueGet(item_level) * 10
+	if stars < 9 then
+		cost = floor(1000 + power(_level, 3) * (stars + 1) / 25)
+	else
+		cost = floor(1000 + power(_level, 3) * power(stars + 1, 2.7) / 400)
 	return cost
 }

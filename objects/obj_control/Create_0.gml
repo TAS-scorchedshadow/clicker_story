@@ -30,11 +30,11 @@ else
 				max_level: 2
 			},
 			weapon: {
-				stat: 1,
+				stat: 0,
 				stars: 0,
 				total_stars: 5,
 				upgrade_cost: 10,
-				item_level: 1,
+				item_level: 0,
 				item_sprite: spr_weapon,
 				max_level: 2
 			},

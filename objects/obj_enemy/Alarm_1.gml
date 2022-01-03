@@ -1,5 +1,5 @@
 /// @description money distributor
-var v=(global.level+global.zone*6)
-multiplier = round((power(10,(v-7)/3))*5)
-global.money+=multiplier*fadeSpeed*(1+9*global.boss)
+var _money = ds_map_find_value(enemyMoney,string(type))
+_money = floor(_money * random_range(8,12) / 10)
+global.money += _money * fadeSpeed
 //global.money+=money/(1/fadeSpeed)

@@ -33,7 +33,7 @@ if upgrade == true and (stats.stars < maxStars[stats.item_level] or (stats.stars
 				if pickRandNum < global.upgradeChance[stats.stars][2] + global.upgradeChance[stats.stars][1]
 				{
 					show_debug_message("FAIL")
-					if stats.stars > 10 and stats.stars != 15
+					if stats.stars > 10 and stats.stars != 15 and stats.stars != 20
 					{
 						stats.stars -= 1
 					}

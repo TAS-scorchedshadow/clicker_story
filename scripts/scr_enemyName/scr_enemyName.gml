@@ -22,7 +22,6 @@ function scr_enemyName(_name){
 			var length=string_length(_name)
 			i++
 		}
-		show_debug_message(_name)
 		i++
 	}
 	until(i==length)
