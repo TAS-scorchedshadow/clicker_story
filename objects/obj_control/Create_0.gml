@@ -2,9 +2,12 @@
 
 //Player Stats
 randomize()
-if file_exists("clickerStory.save")
+if file_exists("savedgame.save")
 {
-	show_debug_message("save found")
+	var saveBuffer = buffer_load("savedgame.save");
+	var saveString = buffer_read(saveBuffer, buffer_string);
+	buffer_delete(saveBuffer);
+	playerStats = json_parse(saveString);
 }
 else
 {
