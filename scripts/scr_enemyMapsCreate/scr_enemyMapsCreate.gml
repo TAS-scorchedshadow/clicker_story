@@ -73,67 +73,67 @@ function scr_enemyMapsCreate(){
 	{enemyMoney=ds_map_create()
 		//zone1
 		{
-			ds_map_add(enemyMoney, "greenMushroom",          100);
-			ds_map_add(enemyMoney, "orangeMushroom",         100);
-			ds_map_add(enemyMoney, "hornyMushroom",          100);
-			ds_map_add(enemyMoney, "blueSnail",              150);
-			ds_map_add(enemyMoney, "redSnail",               150);
-			ds_map_add(enemyMoney, "stoneGolem",             200);
-			ds_map_add(enemyMoney, "darkStoneGolem",         200);
-			ds_map_add(enemyMoney, "mano",                  2000);	//boss1
+			ds_map_add(enemyMoney, "greenMushroom",              100);
+			ds_map_add(enemyMoney, "orangeMushroom",             100);
+			ds_map_add(enemyMoney, "hornyMushroom",              100);
+			ds_map_add(enemyMoney, "blueSnail",                  150);
+			ds_map_add(enemyMoney, "redSnail",                   150);
+			ds_map_add(enemyMoney, "stoneGolem",                 200);
+			ds_map_add(enemyMoney, "darkStoneGolem",             200);
+			ds_map_add(enemyMoney, "mano",                      2000);	//boss1
 		}
 	
 		//zone2
 		{
-			ds_map_add(enemyMoney, "stump",                  250);
-			ds_map_add(enemyMoney, "darkStump",              250);
-			ds_map_add(enemyMoney, "axeStump",               500);
-			ds_map_add(enemyMoney, "darkAxeStump",           500);
-			ds_map_add(enemyMoney, "ghostStump",             750);
-			ds_map_add(enemyMoney, "stumpy",                7500);	//boss2
+			ds_map_add(enemyMoney, "stump",                      250);
+			ds_map_add(enemyMoney, "darkStump",                  250);
+			ds_map_add(enemyMoney, "axeStump",                   500);
+			ds_map_add(enemyMoney, "darkAxeStump",               500);
+			ds_map_add(enemyMoney, "ghostStump",                 750);
+			ds_map_add(enemyMoney, "stumpy",                    7500);	//boss2
 		}
 	
 		//zone3
 		{
-			ds_map_add(enemyMoney, "fairySlime",            1000);
-			ds_map_add(enemyMoney, "forestSlime",           1000);
-			ds_map_add(enemyMoney, "mysticWisp",            1000);
-			ds_map_add(enemyMoney, "waterSprite",           1000);
-			ds_map_add(enemyMoney, "ragingTome",            2000);
-			ds_map_add(enemyMoney, "grumpyTome",            2000);
-			ds_map_add(enemyMoney, "oniony",                3000);
-			ds_map_add(enemyMoney, "turnipy",               3000);
-			ds_map_add(enemyMoney, "moleKing",             30000);	//boss3
+			ds_map_add(enemyMoney, "fairySlime",                1000);
+			ds_map_add(enemyMoney, "forestSlime",               1000);
+			ds_map_add(enemyMoney, "mysticWisp",                1000);
+			ds_map_add(enemyMoney, "waterSprite",               1000);
+			ds_map_add(enemyMoney, "ragingTome",                2000);
+			ds_map_add(enemyMoney, "grumpyTome",                2000);
+			ds_map_add(enemyMoney, "oniony",                    3000);
+			ds_map_add(enemyMoney, "turnipy",                   3000);
+			ds_map_add(enemyMoney, "moleKing",                 30000);	//boss3
 		}
 	
 		//zone4
 		{
-			ds_map_add(enemyMoney, "copperDrake",          20000);
-			ds_map_add(enemyMoney, "whiteFang",            50000);
-			ds_map_add(enemyMoney, "sandRat",             100000);
-			ds_map_add(enemyMoney, "scorpion",            100000);
-			ds_map_add(enemyMoney, "neoHuroid",           200000);
-			ds_map_add(enemyMoney, "zakum",              2000000);	//boss 4
+			ds_map_add(enemyMoney, "copperDrake",               6000);
+			ds_map_add(enemyMoney, "whiteFang",                10000);
+			ds_map_add(enemyMoney, "sandRat",                  15000);
+			ds_map_add(enemyMoney, "scorpion",                 15000);
+			ds_map_add(enemyMoney, "neoHuroid",                30000);
+			ds_map_add(enemyMoney, "zakum",                   900000);	//boss 4
 		}
 	
 		//zone5
 		{
-			ds_map_add(enemyMoney, "bloodHarp",           500000);
-			ds_map_add(enemyMoney, "ghostPirate",        1000000);
-			ds_map_add(enemyMoney, "moonBunny",          1500000);
-			ds_map_add(enemyMoney, "bain",               2000000);	
-			ds_map_add(enemyMoney, "vellum",            20000000);	//boss 5
+			ds_map_add(enemyMoney, "bloodHarp",               150000);
+			ds_map_add(enemyMoney, "ghostPirate",             300000);
+			ds_map_add(enemyMoney, "moonBunny",               600000);
+			ds_map_add(enemyMoney, "bain",                   1500000);	
+			ds_map_add(enemyMoney, "vellum",                30000000);	//boss 5
 		}
 	
 		//zone6
 		{
-			ds_map_add(enemyMoney, "enragedEspressoMachine",    7500000);
-			ds_map_add(enemyMoney, "mateon",            10000000);
-			ds_map_add(enemyMoney, "plateon",		    10000000);
-			ds_map_add(enemyMoney, "advancedKnightA",   50000000);
-			ds_map_add(enemyMoney, "advancedKnightB",   50000000);
-			ds_map_add(enemyMoney, "swollenStump",     200000000);
-			ds_map_add(enemyMoney, "lotus",          10000000000);	//boss 6
+			ds_map_add(enemyMoney, "enragedEspressoMachine", 4000000);
+			ds_map_add(enemyMoney, "mateon",                 8000000);
+			ds_map_add(enemyMoney, "plateon",		         8000000);
+			ds_map_add(enemyMoney, "advancedKnightA",       12000000);
+			ds_map_add(enemyMoney, "advancedKnightB",       12000000);
+			ds_map_add(enemyMoney, "swollenStump",          25000000);
+			ds_map_add(enemyMoney, "lotus",              10000000000);	//boss 6
 		}
 	}
 
