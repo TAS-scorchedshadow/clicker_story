@@ -18,6 +18,7 @@ if itemChange == true {
 
 if upgrade == true and (stats.stars < maxStars[stats.item_level] or (stats.stars == maxStars[stats.item_level] and stats.item_level < stats.max_level)) and itemChange = false{
 	var pickRandNum = random_range(0, 100)
+	if failcount > 1 pickRandNum = 100
 	if global.money >= scr_calc_cost(stats.stars, stats.item_level)
 	{
 		global.money -= scr_calc_cost(stats.stars, stats.item_level)
@@ -25,7 +26,8 @@ if upgrade == true and (stats.stars < maxStars[stats.item_level] or (stats.stars
 		{
 			if pickRandNum < global.upgradeChance[stats.stars][2]
 				{
-					show_debug_message("BOOM")	
+					show_debug_message("BOOM")
+					failcount = 0
 					stats.stars = 0
 				}
 			else
@@ -36,11 +38,14 @@ if upgrade == true and (stats.stars < maxStars[stats.item_level] or (stats.stars
 					if stats.stars > 10 and stats.stars != 15 and stats.stars != 20
 					{
 						stats.stars -= 1
+						failcount += 1
 					}
+					else failcount = 0
 				}
 				else
 				{
 					show_debug_message("SUCCESS")
+					failcount = 0
 					if stats.stars == maxStars[stats.item_level]
 					{
 						itemObj.image_index += 1

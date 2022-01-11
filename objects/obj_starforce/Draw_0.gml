@@ -13,10 +13,17 @@ else
 		draw_text(x+133, y+90, "Upgrade to new item");
 	}
 }
-draw_text(x+133, y+105, "Success: " + string(global.upgradeChance[stats.stars][0]) + "%")
-draw_text(x+133, y+120, "Failure: " + string(global.upgradeChance[stats.stars][1]) + "%")
-draw_text(x+133, y+135, "Destruction: " + string(global.upgradeChance[stats.stars][2]) + "%")
-
+if failcount > 1
+{
+	draw_text(x+133, y+105, "Success: 100%")
+	draw_text(x+133, y+120, "CHANCE TIME!")
+}
+else
+{
+	draw_text(x+133, y+105, "Success: " + string(global.upgradeChance[stats.stars][0]) + "%")
+	draw_text(x+133, y+120, "Failure: " + string(global.upgradeChance[stats.stars][1]) + "%")
+	draw_text(x+133, y+135, "Destruction: " + string(global.upgradeChance[stats.stars][2]) + "%")
+}
 
 
 draw_set_color(c_white)

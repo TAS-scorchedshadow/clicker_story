@@ -4,7 +4,8 @@ itemObj = obj_hat
 scr_get_item_stats(item)
 itemChange = false
 upgrade = false
-maxStars = [12, 17, 25]
+maxStars = [10, 15, 25]
+failcount = 0
 if !instance_exists(obj_upgrade_button)
 {
 	instance_create_depth(x+79, y+250, depth - 1, obj_upgrade_button)
