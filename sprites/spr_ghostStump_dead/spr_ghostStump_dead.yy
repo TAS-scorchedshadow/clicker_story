@@ -75,7 +75,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_ghostStump_dead","path":"sprites/spr_ghostStump_dead/spr_ghostStump_dead.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_ghostStump_dead",
     "tags": [],
     "resourceType": "GMSequence",

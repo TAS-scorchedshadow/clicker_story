@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_scorpion_damaged","path":"sprites/spr_scorpion_damaged/spr_scorpion_damaged.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_scorpion_damaged",
     "tags": [],
     "resourceType": "GMSequence",

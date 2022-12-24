@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_whiteFang_damaged","path":"sprites/spr_whiteFang_damaged/spr_whiteFang_damaged.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_whiteFang_damaged",
     "tags": [],
     "resourceType": "GMSequence",

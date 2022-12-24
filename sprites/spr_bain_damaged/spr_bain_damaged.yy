@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_bain_damaged","path":"sprites/spr_bain_damaged/spr_bain_damaged.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_bain_damaged",
     "tags": [],
     "resourceType": "GMSequence",

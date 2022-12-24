@@ -203,7 +203,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_vellum_dead","path":"sprites/spr_vellum_dead/spr_vellum_dead.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_vellum_dead",
     "tags": [],
     "resourceType": "GMSequence",

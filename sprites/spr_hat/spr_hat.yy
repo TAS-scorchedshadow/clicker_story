@@ -67,7 +67,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_hat","path":"sprites/spr_hat/spr_hat.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_hat",
     "tags": [],
     "resourceType": "GMSequence",

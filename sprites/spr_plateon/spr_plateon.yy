@@ -191,7 +191,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_plateon","path":"sprites/spr_plateon/spr_plateon.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_plateon",
     "tags": [],
     "resourceType": "GMSequence",

@@ -127,7 +127,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_advancedKnightB","path":"sprites/spr_advancedKnightB/spr_advancedKnightB.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_advancedKnightB",
     "tags": [],
     "resourceType": "GMSequence",

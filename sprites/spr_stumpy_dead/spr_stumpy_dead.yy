@@ -103,7 +103,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_stumpy_dead","path":"sprites/spr_stumpy_dead/spr_stumpy_dead.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_stumpy_dead",
     "tags": [],
     "resourceType": "GMSequence",

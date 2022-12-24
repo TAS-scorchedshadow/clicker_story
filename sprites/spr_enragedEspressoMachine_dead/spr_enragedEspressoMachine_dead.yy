@@ -103,7 +103,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_enragedEspressoMachine_dead","path":"sprites/spr_enragedEspressoMachine_dead/spr_enragedEspressoMachine_dead.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_enragedEspressoMachine_dead",
     "tags": [],
     "resourceType": "GMSequence",

@@ -87,7 +87,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_advancedKnightA_dead","path":"sprites/spr_advancedKnightA_dead/spr_advancedKnightA_dead.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_advancedKnightA_dead",
     "tags": [],
     "resourceType": "GMSequence",

@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_oniony_damaged","path":"sprites/spr_oniony_damaged/spr_oniony_damaged.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_oniony_damaged",
     "tags": [],
     "resourceType": "GMSequence",

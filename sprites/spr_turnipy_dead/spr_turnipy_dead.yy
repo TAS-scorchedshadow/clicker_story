@@ -95,7 +95,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_turnipy_dead","path":"sprites/spr_turnipy_dead/spr_turnipy_dead.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_turnipy_dead",
     "tags": [],
     "resourceType": "GMSequence",

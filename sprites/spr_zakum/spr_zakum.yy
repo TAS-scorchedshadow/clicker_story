@@ -643,7 +643,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_zakum","path":"sprites/spr_zakum/spr_zakum.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_zakum",
     "tags": [],
     "resourceType": "GMSequence",

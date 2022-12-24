@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_redShroom_idle_1","path":"sprites/spr_redShroom_idle_1/spr_redShroom_idle_1.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_redShroom_idle_1",
     "tags": [],
     "resourceType": "GMSequence",

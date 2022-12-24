@@ -139,7 +139,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_bloodHarp","path":"sprites/spr_bloodHarp/spr_bloodHarp.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_bloodHarp",
     "tags": [],
     "resourceType": "GMSequence",

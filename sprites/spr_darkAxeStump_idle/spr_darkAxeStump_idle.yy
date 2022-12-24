@@ -75,7 +75,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_darkAxeStump_idle","path":"sprites/spr_darkAxeStump_idle/spr_darkAxeStump_idle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_darkAxeStump_idle",
     "tags": [],
     "resourceType": "GMSequence",

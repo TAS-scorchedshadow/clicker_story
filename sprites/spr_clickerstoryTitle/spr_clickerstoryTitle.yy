@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_clickerstoryTitle","path":"sprites/spr_clickerstoryTitle/spr_clickerstoryTitle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_clickerstoryTitle",
     "tags": [],
     "resourceType": "GMSequence",

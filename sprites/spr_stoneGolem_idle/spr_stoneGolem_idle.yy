@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_stoneGolem_idle","path":"sprites/spr_stoneGolem_idle/spr_stoneGolem_idle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_stoneGolem_idle",
     "tags": [],
     "resourceType": "GMSequence",

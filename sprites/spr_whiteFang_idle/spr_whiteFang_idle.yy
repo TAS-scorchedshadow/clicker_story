@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_whiteFang_idle","path":"sprites/spr_whiteFang_idle/spr_whiteFang_idle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_whiteFang_idle",
     "tags": [],
     "resourceType": "GMSequence",

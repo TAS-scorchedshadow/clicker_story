@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_fairySlime_damaged","path":"sprites/spr_fairySlime_damaged/spr_fairySlime_damaged.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_fairySlime_damaged",
     "tags": [],
     "resourceType": "GMSequence",

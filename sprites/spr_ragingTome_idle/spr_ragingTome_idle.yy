@@ -79,7 +79,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_ragingTome_idle","path":"sprites/spr_ragingTome_idle/spr_ragingTome_idle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_ragingTome_idle",
     "tags": [],
     "resourceType": "GMSequence",

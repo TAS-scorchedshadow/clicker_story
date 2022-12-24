@@ -79,7 +79,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_axeStump_dead","path":"sprites/spr_axeStump_dead/spr_axeStump_dead.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_axeStump_dead",
     "tags": [],
     "resourceType": "GMSequence",

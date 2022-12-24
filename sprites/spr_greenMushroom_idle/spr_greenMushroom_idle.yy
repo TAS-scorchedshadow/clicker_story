@@ -83,7 +83,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_greenMushroom_idle","path":"sprites/spr_greenMushroom_idle/spr_greenMushroom_idle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_greenMushroom_idle",
     "tags": [],
     "resourceType": "GMSequence",

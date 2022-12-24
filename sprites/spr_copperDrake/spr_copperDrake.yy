@@ -111,7 +111,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_copperDrake","path":"sprites/spr_copperDrake/spr_copperDrake.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_copperDrake",
     "tags": [],
     "resourceType": "GMSequence",

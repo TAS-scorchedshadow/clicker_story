@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_ghostStump_damaged","path":"sprites/spr_ghostStump_damaged/spr_ghostStump_damaged.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_ghostStump_damaged",
     "tags": [],
     "resourceType": "GMSequence",

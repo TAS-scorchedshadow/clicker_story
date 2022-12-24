@@ -87,7 +87,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_copperDrake_dead","path":"sprites/spr_copperDrake_dead/spr_copperDrake_dead.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_copperDrake_dead",
     "tags": [],
     "resourceType": "GMSequence",

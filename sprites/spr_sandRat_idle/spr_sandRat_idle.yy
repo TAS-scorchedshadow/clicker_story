@@ -151,7 +151,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_sandRat_idle","path":"sprites/spr_sandRat_idle/spr_sandRat_idle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_sandRat_idle",
     "tags": [],
     "resourceType": "GMSequence",

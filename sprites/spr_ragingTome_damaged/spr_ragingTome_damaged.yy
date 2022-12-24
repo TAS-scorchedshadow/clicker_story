@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_ragingTome_damaged","path":"sprites/spr_ragingTome_damaged/spr_ragingTome_damaged.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_ragingTome_damaged",
     "tags": [],
     "resourceType": "GMSequence",

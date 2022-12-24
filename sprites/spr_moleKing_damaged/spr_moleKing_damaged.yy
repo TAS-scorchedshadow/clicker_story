@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_moleKing_damaged","path":"sprites/spr_moleKing_damaged/spr_moleKing_damaged.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_moleKing_damaged",
     "tags": [],
     "resourceType": "GMSequence",

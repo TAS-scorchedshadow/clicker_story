@@ -87,7 +87,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_zakum_idle","path":"sprites/spr_zakum_idle/spr_zakum_idle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_zakum_idle",
     "tags": [],
     "resourceType": "GMSequence",

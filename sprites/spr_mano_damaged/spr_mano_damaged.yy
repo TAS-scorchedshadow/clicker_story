@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_mano_damaged","path":"sprites/spr_mano_damaged/spr_mano_damaged.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_mano_damaged",
     "tags": [],
     "resourceType": "GMSequence",

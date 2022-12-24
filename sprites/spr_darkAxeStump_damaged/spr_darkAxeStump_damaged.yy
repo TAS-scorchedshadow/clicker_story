@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_darkAxeStump_damaged","path":"sprites/spr_darkAxeStump_damaged/spr_darkAxeStump_damaged.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_darkAxeStump_damaged",
     "tags": [],
     "resourceType": "GMSequence",

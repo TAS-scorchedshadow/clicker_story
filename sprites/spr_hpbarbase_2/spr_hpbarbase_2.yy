@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_hpbarbase_2","path":"sprites/spr_hpbarbase_2/spr_hpbarbase_2.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_hpbarbase_2",
     "tags": [],
     "resourceType": "GMSequence",

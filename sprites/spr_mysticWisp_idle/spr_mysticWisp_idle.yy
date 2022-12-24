@@ -79,7 +79,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_mysticWisp_idle","path":"sprites/spr_mysticWisp_idle/spr_mysticWisp_idle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_mysticWisp_idle",
     "tags": [],
     "resourceType": "GMSequence",

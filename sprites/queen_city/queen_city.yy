@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"queen_city","path":"sprites/queen_city/queen_city.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "queen_city",
     "tags": [],
     "resourceType": "GMSequence",

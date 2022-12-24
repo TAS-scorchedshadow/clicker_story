@@ -303,7 +303,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_vellum","path":"sprites/spr_vellum/spr_vellum.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_vellum",
     "tags": [],
     "resourceType": "GMSequence",

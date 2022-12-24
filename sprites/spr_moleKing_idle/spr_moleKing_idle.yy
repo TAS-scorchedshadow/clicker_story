@@ -79,7 +79,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_moleKing_idle","path":"sprites/spr_moleKing_idle/spr_moleKing_idle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_moleKing_idle",
     "tags": [],
     "resourceType": "GMSequence",

@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_darkStoneGolem_damaged","path":"sprites/spr_darkStoneGolem_damaged/spr_darkStoneGolem_damaged.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_darkStoneGolem_damaged",
     "tags": [],
     "resourceType": "GMSequence",

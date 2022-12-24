@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_redShroom_damaged","path":"sprites/spr_redShroom_damaged/spr_redShroom_damaged.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_redShroom_damaged",
     "tags": [],
     "resourceType": "GMSequence",

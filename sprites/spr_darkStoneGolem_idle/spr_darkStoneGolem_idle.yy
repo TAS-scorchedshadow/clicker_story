@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_darkStoneGolem_idle","path":"sprites/spr_darkStoneGolem_idle/spr_darkStoneGolem_idle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_darkStoneGolem_idle",
     "tags": [],
     "resourceType": "GMSequence",

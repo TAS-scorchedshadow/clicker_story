@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_counter","path":"sprites/spr_counter/spr_counter.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_counter",
     "tags": [],
     "resourceType": "GMSequence",

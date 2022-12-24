@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_mateon_damaged","path":"sprites/spr_mateon_damaged/spr_mateon_damaged.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_mateon_damaged",
     "tags": [],
     "resourceType": "GMSequence",

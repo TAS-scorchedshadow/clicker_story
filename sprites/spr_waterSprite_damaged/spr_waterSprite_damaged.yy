@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_waterSprite_damaged","path":"sprites/spr_waterSprite_damaged/spr_waterSprite_damaged.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_waterSprite_damaged",
     "tags": [],
     "resourceType": "GMSequence",

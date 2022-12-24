@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_vellum_damaged","path":"sprites/spr_vellum_damaged/spr_vellum_damaged.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_vellum_damaged",
     "tags": [],
     "resourceType": "GMSequence",

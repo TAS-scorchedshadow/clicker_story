@@ -131,7 +131,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_ghostPirate","path":"sprites/spr_ghostPirate/spr_ghostPirate.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_ghostPirate",
     "tags": [],
     "resourceType": "GMSequence",

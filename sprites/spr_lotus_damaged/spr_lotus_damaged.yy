@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_lotus_damaged","path":"sprites/spr_lotus_damaged/spr_lotus_damaged.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_lotus_damaged",
     "tags": [],
     "resourceType": "GMSequence",

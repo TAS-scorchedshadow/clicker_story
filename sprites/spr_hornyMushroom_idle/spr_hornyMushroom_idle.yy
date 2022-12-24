@@ -83,7 +83,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_hornyMushroom_idle","path":"sprites/spr_hornyMushroom_idle/spr_hornyMushroom_idle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_hornyMushroom_idle",
     "tags": [],
     "resourceType": "GMSequence",

@@ -79,7 +79,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_swollenStump_idle","path":"sprites/spr_swollenStump_idle/spr_swollenStump_idle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_swollenStump_idle",
     "tags": [],
     "resourceType": "GMSequence",

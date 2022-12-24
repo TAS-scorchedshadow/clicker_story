@@ -187,7 +187,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_sandRat","path":"sprites/spr_sandRat/spr_sandRat.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_sandRat",
     "tags": [],
     "resourceType": "GMSequence",

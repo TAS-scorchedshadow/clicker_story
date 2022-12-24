@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_redSnail_damaged","path":"sprites/spr_redSnail_damaged/spr_redSnail_damaged.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_redSnail_damaged",
     "tags": [],
     "resourceType": "GMSequence",

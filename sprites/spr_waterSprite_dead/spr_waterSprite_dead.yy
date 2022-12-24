@@ -95,7 +95,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_waterSprite_dead","path":"sprites/spr_waterSprite_dead/spr_waterSprite_dead.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_waterSprite_dead",
     "tags": [],
     "resourceType": "GMSequence",

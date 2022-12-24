@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_hpbar_red","path":"sprites/spr_hpbar_red/spr_hpbar_red.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_hpbar_red",
     "tags": [],
     "resourceType": "GMSequence",

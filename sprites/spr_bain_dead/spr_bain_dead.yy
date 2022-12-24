@@ -75,7 +75,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_bain_dead","path":"sprites/spr_bain_dead/spr_bain_dead.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_bain_dead",
     "tags": [],
     "resourceType": "GMSequence",

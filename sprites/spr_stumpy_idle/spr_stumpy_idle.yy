@@ -79,7 +79,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_stumpy_idle","path":"sprites/spr_stumpy_idle/spr_stumpy_idle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_stumpy_idle",
     "tags": [],
     "resourceType": "GMSequence",

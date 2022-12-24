@@ -127,7 +127,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_bain","path":"sprites/spr_bain/spr_bain.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_bain",
     "tags": [],
     "resourceType": "GMSequence",

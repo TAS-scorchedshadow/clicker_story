@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_stumpy_damaged","path":"sprites/spr_stumpy_damaged/spr_stumpy_damaged.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_stumpy_damaged",
     "tags": [],
     "resourceType": "GMSequence",

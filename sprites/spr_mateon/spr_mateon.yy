@@ -235,7 +235,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_mateon","path":"sprites/spr_mateon/spr_mateon.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_mateon",
     "tags": [],
     "resourceType": "GMSequence",

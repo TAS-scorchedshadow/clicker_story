@@ -123,7 +123,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_advancedKnightA","path":"sprites/spr_advancedKnightA/spr_advancedKnightA.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_advancedKnightA",
     "tags": [],
     "resourceType": "GMSequence",

@@ -119,7 +119,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_plateon_idle","path":"sprites/spr_plateon_idle/spr_plateon_idle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_plateon_idle",
     "tags": [],
     "resourceType": "GMSequence",

@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_sandRat_damaged","path":"sprites/spr_sandRat_damaged/spr_sandRat_damaged.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_sandRat_damaged",
     "tags": [],
     "resourceType": "GMSequence",

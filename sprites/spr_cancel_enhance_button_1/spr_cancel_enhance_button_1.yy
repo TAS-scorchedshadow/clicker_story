@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_cancel_enhance_button_1","path":"sprites/spr_cancel_enhance_button_1/spr_cancel_enhance_button_1.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_cancel_enhance_button_1",
     "tags": [],
     "resourceType": "GMSequence",

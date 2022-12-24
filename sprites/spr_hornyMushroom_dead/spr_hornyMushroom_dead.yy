@@ -79,7 +79,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_hornyMushroom_dead","path":"sprites/spr_hornyMushroom_dead/spr_hornyMushroom_dead.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_hornyMushroom_dead",
     "tags": [],
     "resourceType": "GMSequence",

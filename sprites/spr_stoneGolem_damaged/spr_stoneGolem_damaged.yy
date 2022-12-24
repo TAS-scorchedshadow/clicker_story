@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_stoneGolem_damaged","path":"sprites/spr_stoneGolem_damaged/spr_stoneGolem_damaged.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_stoneGolem_damaged",
     "tags": [],
     "resourceType": "GMSequence",

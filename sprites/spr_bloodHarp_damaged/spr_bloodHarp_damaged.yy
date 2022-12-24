@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_bloodHarp_damaged","path":"sprites/spr_bloodHarp_damaged/spr_bloodHarp_damaged.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_bloodHarp_damaged",
     "tags": [],
     "resourceType": "GMSequence",

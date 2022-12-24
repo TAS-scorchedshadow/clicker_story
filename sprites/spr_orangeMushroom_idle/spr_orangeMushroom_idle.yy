@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_orangeMushroom_idle","path":"sprites/spr_orangeMushroom_idle/spr_orangeMushroom_idle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_orangeMushroom_idle",
     "tags": [],
     "resourceType": "GMSequence",

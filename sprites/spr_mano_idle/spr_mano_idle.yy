@@ -79,7 +79,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_mano_idle","path":"sprites/spr_mano_idle/spr_mano_idle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_mano_idle",
     "tags": [],
     "resourceType": "GMSequence",

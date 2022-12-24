@@ -75,7 +75,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_redSnail_dead","path":"sprites/spr_redSnail_dead/spr_redSnail_dead.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_redSnail_dead",
     "tags": [],
     "resourceType": "GMSequence",

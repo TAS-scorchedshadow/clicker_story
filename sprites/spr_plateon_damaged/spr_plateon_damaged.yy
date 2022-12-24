@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_plateon_damaged","path":"sprites/spr_plateon_damaged/spr_plateon_damaged.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_plateon_damaged",
     "tags": [],
     "resourceType": "GMSequence",

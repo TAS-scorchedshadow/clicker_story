@@ -79,7 +79,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_levelArrow","path":"sprites/spr_levelArrow/spr_levelArrow.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_levelArrow",
     "tags": [],
     "resourceType": "GMSequence",

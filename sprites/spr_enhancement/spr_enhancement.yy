@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_enhancement","path":"sprites/spr_enhancement/spr_enhancement.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_enhancement",
     "tags": [],
     "resourceType": "GMSequence",

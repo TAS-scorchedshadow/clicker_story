@@ -79,7 +79,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_forestSlime_idle","path":"sprites/spr_forestSlime_idle/spr_forestSlime_idle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_forestSlime_idle",
     "tags": [],
     "resourceType": "GMSequence",

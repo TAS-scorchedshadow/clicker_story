@@ -79,7 +79,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_bloodHarp_idle","path":"sprites/spr_bloodHarp_idle/spr_bloodHarp_idle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_bloodHarp_idle",
     "tags": [],
     "resourceType": "GMSequence",

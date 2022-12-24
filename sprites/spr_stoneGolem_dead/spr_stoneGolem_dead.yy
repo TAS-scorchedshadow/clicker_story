@@ -91,7 +91,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_stoneGolem_dead","path":"sprites/spr_stoneGolem_dead/spr_stoneGolem_dead.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_stoneGolem_dead",
     "tags": [],
     "resourceType": "GMSequence",

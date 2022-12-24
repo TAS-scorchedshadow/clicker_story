@@ -79,7 +79,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_ghostPirate_dead","path":"sprites/spr_ghostPirate_dead/spr_ghostPirate_dead.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_ghostPirate_dead",
     "tags": [],
     "resourceType": "GMSequence",

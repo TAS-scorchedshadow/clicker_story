@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_copperDrake_idle","path":"sprites/spr_copperDrake_idle/spr_copperDrake_idle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_copperDrake_idle",
     "tags": [],
     "resourceType": "GMSequence",

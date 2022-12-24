@@ -155,7 +155,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_enragedEspressoMachine","path":"sprites/spr_enragedEspressoMachine/spr_enragedEspressoMachine.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_enragedEspressoMachine",
     "tags": [],
     "resourceType": "GMSequence",

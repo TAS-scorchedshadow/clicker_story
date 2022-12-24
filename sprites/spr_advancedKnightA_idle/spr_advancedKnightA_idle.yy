@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_advancedKnightA_idle","path":"sprites/spr_advancedKnightA_idle/spr_advancedKnightA_idle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_advancedKnightA_idle",
     "tags": [],
     "resourceType": "GMSequence",

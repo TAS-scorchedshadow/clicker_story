@@ -107,7 +107,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_ghostStump_idle","path":"sprites/spr_ghostStump_idle/spr_ghostStump_idle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_ghostStump_idle",
     "tags": [],
     "resourceType": "GMSequence",

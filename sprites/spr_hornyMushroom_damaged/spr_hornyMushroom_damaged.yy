@@ -142,7 +142,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_hornyMushroom_damaged","path":"sprites/spr_hornyMushroom_damaged/spr_hornyMushroom_damaged.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_hornyMushroom_damaged",
     "tags": [],
     "resourceType": "GMSequence",

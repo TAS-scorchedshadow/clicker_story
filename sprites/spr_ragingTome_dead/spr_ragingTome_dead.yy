@@ -103,7 +103,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_ragingTome_dead","path":"sprites/spr_ragingTome_dead/spr_ragingTome_dead.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_ragingTome_dead",
     "tags": [],
     "resourceType": "GMSequence",

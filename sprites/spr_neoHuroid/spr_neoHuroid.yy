@@ -251,7 +251,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_neoHuroid","path":"sprites/spr_neoHuroid/spr_neoHuroid.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_neoHuroid",
     "tags": [],
     "resourceType": "GMSequence",

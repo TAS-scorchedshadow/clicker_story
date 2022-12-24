@@ -127,7 +127,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_cerebes","path":"sprites/spr_cerebes/spr_cerebes.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_cerebes",
     "tags": [],
     "resourceType": "GMSequence",

@@ -151,7 +151,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_vellum_idle","path":"sprites/spr_vellum_idle/spr_vellum_idle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_vellum_idle",
     "tags": [],
     "resourceType": "GMSequence",

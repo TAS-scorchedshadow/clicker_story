@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_moonBunny_damaged","path":"sprites/spr_moonBunny_damaged/spr_moonBunny_damaged.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_moonBunny_damaged",
     "tags": [],
     "resourceType": "GMSequence",

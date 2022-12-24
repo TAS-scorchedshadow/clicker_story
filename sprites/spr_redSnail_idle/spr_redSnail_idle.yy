@@ -91,7 +91,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_redSnail_idle","path":"sprites/spr_redSnail_idle/spr_redSnail_idle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_redSnail_idle",
     "tags": [],
     "resourceType": "GMSequence",

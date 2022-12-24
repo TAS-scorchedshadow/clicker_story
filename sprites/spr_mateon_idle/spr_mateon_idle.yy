@@ -87,7 +87,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_mateon_idle","path":"sprites/spr_mateon_idle/spr_mateon_idle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_mateon_idle",
     "tags": [],
     "resourceType": "GMSequence",

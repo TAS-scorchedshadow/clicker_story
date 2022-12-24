@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_zakum_damaged","path":"sprites/spr_zakum_damaged/spr_zakum_damaged.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_zakum_damaged",
     "tags": [],
     "resourceType": "GMSequence",

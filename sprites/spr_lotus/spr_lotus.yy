@@ -123,7 +123,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_lotus","path":"sprites/spr_lotus/spr_lotus.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_lotus",
     "tags": [],
     "resourceType": "GMSequence",

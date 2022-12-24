@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_blueShroom_idle","path":"sprites/spr_blueShroom_idle/spr_blueShroom_idle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_blueShroom_idle",
     "tags": [],
     "resourceType": "GMSequence",

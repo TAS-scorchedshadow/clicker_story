@@ -91,7 +91,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_darkStoneGolem_dead","path":"sprites/spr_darkStoneGolem_dead/spr_darkStoneGolem_dead.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_darkStoneGolem_dead",
     "tags": [],
     "resourceType": "GMSequence",

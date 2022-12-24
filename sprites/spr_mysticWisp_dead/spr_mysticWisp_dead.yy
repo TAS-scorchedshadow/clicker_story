@@ -99,7 +99,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_mysticWisp_dead","path":"sprites/spr_mysticWisp_dead/spr_mysticWisp_dead.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_mysticWisp_dead",
     "tags": [],
     "resourceType": "GMSequence",

@@ -79,7 +79,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_grumpyTome_idle","path":"sprites/spr_grumpyTome_idle/spr_grumpyTome_idle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_grumpyTome_idle",
     "tags": [],
     "resourceType": "GMSequence",

@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_mysticWisp_damaged","path":"sprites/spr_mysticWisp_damaged/spr_mysticWisp_damaged.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_mysticWisp_damaged",
     "tags": [],
     "resourceType": "GMSequence",

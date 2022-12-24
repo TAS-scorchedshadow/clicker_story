@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_orangeMushroom_damaged","path":"sprites/spr_orangeMushroom_damaged/spr_orangeMushroom_damaged.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_orangeMushroom_damaged",
     "tags": [],
     "resourceType": "GMSequence",

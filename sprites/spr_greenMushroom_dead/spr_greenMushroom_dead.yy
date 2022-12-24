@@ -79,7 +79,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_greenMushroom_dead","path":"sprites/spr_greenMushroom_dead/spr_greenMushroom_dead.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_greenMushroom_dead",
     "tags": [],
     "resourceType": "GMSequence",

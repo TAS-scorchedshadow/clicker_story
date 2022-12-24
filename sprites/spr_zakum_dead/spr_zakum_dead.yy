@@ -95,7 +95,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_zakum_dead","path":"sprites/spr_zakum_dead/spr_zakum_dead.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_zakum_dead",
     "tags": [],
     "resourceType": "GMSequence",

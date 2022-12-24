@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_neoHuroid_damaged","path":"sprites/spr_neoHuroid_damaged/spr_neoHuroid_damaged.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_neoHuroid_damaged",
     "tags": [],
     "resourceType": "GMSequence",

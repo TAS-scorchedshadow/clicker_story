@@ -79,7 +79,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_darkAxeStump_dead","path":"sprites/spr_darkAxeStump_dead/spr_darkAxeStump_dead.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_darkAxeStump_dead",
     "tags": [],
     "resourceType": "GMSequence",

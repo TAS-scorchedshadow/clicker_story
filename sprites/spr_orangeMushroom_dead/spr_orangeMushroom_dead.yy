@@ -75,7 +75,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_orangeMushroom_dead","path":"sprites/spr_orangeMushroom_dead/spr_orangeMushroom_dead.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_orangeMushroom_dead",
     "tags": [],
     "resourceType": "GMSequence",

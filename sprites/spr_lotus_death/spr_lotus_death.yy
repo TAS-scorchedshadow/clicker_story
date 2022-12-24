@@ -191,7 +191,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_lotus_death","path":"sprites/spr_lotus_death/spr_lotus_death.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_lotus_death",
     "tags": [],
     "resourceType": "GMSequence",

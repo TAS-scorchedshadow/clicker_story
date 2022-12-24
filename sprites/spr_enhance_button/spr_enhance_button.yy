@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_enhance_button","path":"sprites/spr_enhance_button/spr_enhance_button.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_enhance_button",
     "tags": [],
     "resourceType": "GMSequence",

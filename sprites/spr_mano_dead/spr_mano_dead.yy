@@ -91,7 +91,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_mano_dead","path":"sprites/spr_mano_dead/spr_mano_dead.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_mano_dead",
     "tags": [],
     "resourceType": "GMSequence",

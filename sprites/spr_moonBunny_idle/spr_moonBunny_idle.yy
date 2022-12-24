@@ -103,7 +103,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_moonBunny_idle","path":"sprites/spr_moonBunny_idle/spr_moonBunny_idle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_moonBunny_idle",
     "tags": [],
     "resourceType": "GMSequence",

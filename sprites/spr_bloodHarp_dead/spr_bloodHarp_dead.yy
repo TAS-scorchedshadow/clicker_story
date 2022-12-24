@@ -87,7 +87,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_bloodHarp_dead","path":"sprites/spr_bloodHarp_dead/spr_bloodHarp_dead.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_bloodHarp_dead",
     "tags": [],
     "resourceType": "GMSequence",

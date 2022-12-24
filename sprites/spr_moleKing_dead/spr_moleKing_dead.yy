@@ -107,7 +107,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_moleKing_dead","path":"sprites/spr_moleKing_dead/spr_moleKing_dead.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_moleKing_dead",
     "tags": [],
     "resourceType": "GMSequence",

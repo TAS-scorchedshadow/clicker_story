@@ -95,7 +95,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_forestSlime_dead","path":"sprites/spr_forestSlime_dead/spr_forestSlime_dead.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_forestSlime_dead",
     "tags": [],
     "resourceType": "GMSequence",

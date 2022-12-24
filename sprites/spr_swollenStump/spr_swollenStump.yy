@@ -163,7 +163,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_swollenStump","path":"sprites/spr_swollenStump/spr_swollenStump.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_swollenStump",
     "tags": [],
     "resourceType": "GMSequence",

@@ -75,7 +75,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_stump_idle","path":"sprites/spr_stump_idle/spr_stump_idle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_stump_idle",
     "tags": [],
     "resourceType": "GMSequence",

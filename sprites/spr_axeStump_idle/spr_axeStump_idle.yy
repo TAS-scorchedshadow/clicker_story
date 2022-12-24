@@ -75,7 +75,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_axeStump_idle","path":"sprites/spr_axeStump_idle/spr_axeStump_idle.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_axeStump_idle",
     "tags": [],
     "resourceType": "GMSequence",

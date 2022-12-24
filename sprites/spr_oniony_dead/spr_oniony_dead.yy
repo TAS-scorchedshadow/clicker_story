@@ -91,7 +91,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_oniony_dead","path":"sprites/spr_oniony_dead/spr_oniony_dead.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_oniony_dead",
     "tags": [],
     "resourceType": "GMSequence",

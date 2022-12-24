@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_forestSlime_damaged","path":"sprites/spr_forestSlime_damaged/spr_forestSlime_damaged.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_forestSlime_damaged",
     "tags": [],
     "resourceType": "GMSequence",

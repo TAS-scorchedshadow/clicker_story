@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_advancedKnightB_damaged","path":"sprites/spr_advancedKnightB_damaged/spr_advancedKnightB_damaged.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_advancedKnightB_damaged",
     "tags": [],
     "resourceType": "GMSequence",
